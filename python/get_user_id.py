@@ -1,4 +1,4 @@
-#-- title: Get User ID
+#-- title: Get User's ID
 #-- description: Code to retrieve user_id from username
 #-- tags: python, medium_api, medium_api_py
 
