@@ -19,13 +19,17 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
+
     - name: Set up Python ${{ matrix.python-version }}
       uses: actions/setup-python@v2
       with:
         python-version: ${{ matrix.python-version }}
+
     - name: Install gistyc
-      run: pip install gistyc
+      run: pip install repo-gist-sync
+
     - name: Use gistyc CLI on "python" directory
-      run: gistyc_dir --auth-token ${{ secrets.GIST_TOKEN }} --directory ./python/
+      run: gistdirsync --auth-token ${{ secrets.GIST_TOKEN }} --directory ./python/
+
     - name: Use gistyc CLI on "curl" directory
-      run: gistyc_dir --auth-token ${{ secrets.GIST_TOKEN }} --directory ./curl/
+      run: gistdirsync --auth-token ${{ secrets.GIST_TOKEN }} --directory ./curl/
