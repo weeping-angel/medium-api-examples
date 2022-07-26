@@ -1,11 +1,26 @@
+#-- title: Get Article Info
+#-- description: Code to get article-related information.
+#-- tags: python, medium_api, medium_api_py
+
+
+# Import libraries
 import os
 from medium_api import Medium
 
+#%%
+# Get RAPIDAPI_KEY from the environment
 api_key = os.getenv('RAPIDAPI_KEY')
+
+#%%
+# Create a `Medium` Object
 medium = Medium(api_key)
 
+#%%
+# Get the `Article` object
 article = medium.article(article_id="799b2aa6ada3", save_info=True)
 
+#%%
+# Print article properties
 print('Title: ', article.title)
 print('Subtitle: ', article.subtitle)
 print('Author ID: ', article.author.user_id)

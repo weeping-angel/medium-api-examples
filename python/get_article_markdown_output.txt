@@ -1,0 +1,117 @@
+### BLOCKCHAIN & CRYPTOCURRENCY
+
+# How To Leverage Medium for Crypto-trading
+
+### Monitoring Medium tags and blogs for hunting down investment opportunities in crypto-space
+
+![Image by the Author](https://miro.medium.com/1*fzEwgzav4BAcsy-dFCpYwg.png)
+
+---
+
+Do you know what’s the best part of being a [Freelancer](https://fiverr.com/nishu_jain)? I get to meet all kinds of people with all sorts of different problems on their hand.
+
+> Have you ever thought of making money in crypto-trading, "by reading Medium Articles"?
+
+Recently I met an interesting crypto-trader, from Bulgaria, who wanted me to build a [Telegram Bot](https://core.telegram.org/bots), to notify him about latest blogposts containing certain "keywords".
+
+_Why?_
+
+Because earlier he used to monitor crypto-related Medium stories, constantly, in search for investment opportunities in upcoming tokens and coins.
+
+_Wait a second … What???_
+
+---
+
+**Why scan Medium for crypto-trading opportunities?**
+
+Because, **_"Today, almost all of the new crypto-project owners write a Medium Article about their ‘revolutionary’ technology before launching their token or coin. And it makes it a great hub for gathering information on such projects before market catches on."_**
+
+To be honest, I was totally amazed by this [information arbitrage](https://whatis.techtarget.com/definition/information-arbitrage) when I first heard about this. I never thought so many blockchain developers and executives would be **first writing on Medium**about their new tokens, features and launches.
+
+But this incredible guy was willing to spend his money on it, and take the risks in crypto-market. And more importantly, he wanted to automate this repetitive task for good.
+
+So I opened up my IDE and began my work!
+
+---
+
+## Working of "Crypto-Medium-Bot"
+
+Trading is a game where timing is everything. And in the fluctuating world of cryptocurrencies, where a week equals to a couple of months, it becomes even more crucial.
+
+The speed at which blockchain technologies are evolving right now, is absolutely phenomenal. Hence, getting information quickly and efficiently is so much important here.
+
+My primary objective was to **_track the upcoming Medium blogs for a list of tags (like Blockchain, DeFi, tokenomics) and filter them based on whether they contain my target keywords or not (like introducing, launching, discover)._**
+
+So at every hour, the bot scrapes the Medium to look for such articles and sends the filtered posts to my telegram bot chat.
+
+---
+
+## Code: -
+
+<iframe src="https://medium.com/media/d3954978e7389a3f163bed143c206af8" title="bot.py - Code by the Author" height="0" width="0"></iframe>
+
+<iframe src="https://medium.com/media/f1d8966a7dae2e4be8b495aec4574950" title="config.py - Code by the Author" height="0" width="0"></iframe>
+
+---
+
+## Code Explanation
+
+### - bot.py
+
+This file contains a single function called run() which takes the configuration parameters as arguments (defined in config.py). It then initialized the Medium API Object and sets the maximum number of articles to be stored within memory = 1000 (So we don’t notify the same article multiple times).
+
+Then it runs an infinite loop which executes the code at the given FREQUENCY. It fetches the top feeds from the Medium, for the given TAGS, compares it from the existing articles (to remove redundancies) and filters them for the given WORDLIST.
+
+After the filtering process, new articles are sent to the telegram bot and added to the list of existing articles.
+
+### - config.py
+
+This file only contains the following variables: -
+
+- RAPIDAPI_KEY (an alphanumeric string got from [rapidapi.com](https://rapidapi.com/nishujain199719-vgIfuFHZxVZ/api/medium2))
+
+- TAGS (for the articles to monitor)
+
+- TELEGRAM_BOT_TOKEN (see [this](https://core.telegram.org/bots#6-botfather))
+
+- TELEGRAM_CHAT_ID (see [this](https://github.com/HomeMadePy/messages/wiki/TelegramBot#telegram-api))
+
+- WORDLIST (keywords/filters)
+
+---
+
+## References
+
+1. For more detailed explanation and full source code, visit my [Github repo](https://github.com/weeping-angel/crypto-medium-bot/)
+
+2. Subscribe to [Medium API to get your RAPIDAPI_KEY](https://rapidapi.com/nishujain199719-vgIfuFHZxVZ/api/medium2)
+
+3. Visit [https://mediumapi.com](https://mediumapi.com) for everything related to these APIs
+
+4. Head over to telegram’s bot documentation or a YouTube tutorial for learning to create a telegram bot.
+
+_Happy Coding!_
+
+---
+
+If you enjoy reading these stories, then I’m sure you would love to be a [Medium paying member](https://nishu-jain.medium.com/membership). It’s only $5 per month, and you’ll get unlimited access to thousands and thousands of stories and writers. You can support me by [**signing up using this link**](https://nishu-jain.medium.com/membership),_and I’ll earn a small commission that will help me grow and publish more stories like this._
+
+---
+
+**Some other articles that you might enjoy -**
+
+> [**Medium API: Get Posts Using Node.js**](https://towardsdev.com/medium-api-get-posts-using-node-js-a43894efaeab)
+
+> [**How To Retrieve Medium Stories of a User Using APIs?**](https://pub.towardsai.net/how-to-retrieve-medium-stories-of-a-user-using-apis-fcdb1576558a)
+
+> [**Medium APIs - Documentation**](https://nishu-jain.medium.com/medium-apis-documentation-3384e2d08667)
+
+---
+
+Schedule a DDIChat Session in [Blockchain and Cryptocurrency](https://app.ddichat.com/category/blockchain-and-cryptocurrency):
+
+> [**Experts - Blockchain and Cryptocurrency - DDIChat**](https://app.ddichat.com/category/blockchain-and-cryptocurrency)
+
+Apply to be a DDIChat Expert [[here](https://ddintel.datadriveninvestor.com/)](https://app.ddichat.com/expertsignup).
+Work with DDI: [https://datadriveninvestor.com/collaborate](https://datadriveninvestor.com/collaborate)
+Subscribe to DDIntel [[here](https://ddintel.datadriveninvestor.com/)](https://app.ddichat.com/expertsignup).

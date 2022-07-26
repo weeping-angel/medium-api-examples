@@ -1,0 +1,13 @@
+What is REST API? And why it is useful?
+
+Image by Author
+
+REST API stands for Representational State Transfer application programming interface. It’s a web-based API that uses HTTP requests to GET, POST, PUT, and DELETE data.
+
+REST API is a more lightweight and efficient alternative to SOAP-based web services. It’s perfect for handling small chunks of data, making it ideal for mobile applications.
+
+Additionally, REST API is language agnostic, making it possible to use a variety of programming languages to communicate with it.
+
+It can be used as a simple way to access data from a server, or as a more sophisticated way to manage data. Using this, you can get information from or send information to a web server.
+
+REST architecture is based on the idea that resources on the Web can be accessed using the HTTP protocol in a uniform way. It’s - Simple, Stateless, Scalable.
