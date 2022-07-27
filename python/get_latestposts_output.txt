@@ -1,5 +1,9 @@
 25 
 
+Blockchain Applications in the Carbon Credit Market
+Economies of Scale
+How Crypto Lending is Reinventing the Idea of Credit — For the Better
+In Web3, You Are Your Brand
 How to Deploy Smart Contracts via Relayer
 Using The DAG Linear Ordering Model Framework In The Tangle
 The Smart Contract setMaxSupply() Is a Handy Thing — So Long as You Implement a Proper Control
@@ -21,7 +25,3 @@ NEAR & Social Good: Change Through Crypto
 Taking a Look at How The Biggest Companies are Going to Use Blockchain
 Web3 UX
 Sygma: Next-generation Interoperability
-Web3 Trends at Collision Conference 2022
-Humanity Cash and Regen Network partner on community dollars
-Regen Network launches strategic eco-credits partnership with Shamba Network
-Recap: Automata at Polkadot Decoded 2022

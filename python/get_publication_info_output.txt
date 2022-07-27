@@ -1,7 +1,7 @@
 Name:  Towards AI
 Tagline:  The leading AI community and content platform focused on making AI accessible to all
 Description:  The leading AI community and content platform focused on making AI accessible to all
-Followers:  27751
+Followers:  27763
 Tags:  ['ARTIFICIAL INTELLIGENCE', 'MACHINE LEARNING', 'DATA SCIENCE', 'PROGRAMMING', 'DEEP LEARNING']
 Slug:  towards-artificial-intelligence
 URL:  pub.towardsai.net

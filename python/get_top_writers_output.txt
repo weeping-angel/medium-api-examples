@@ -12,30 +12,28 @@ Sik-Ho Tsang --- sh-tsang
 Cassie Kozyrkov --- kozyrkov
 Aman Kharwal --- amankharwal
 Fabio Chiusano --- chiusanofabio94
-Cory Maklin --- corymaklin
 Towards AI Editorial Team --- towardsai
+Cory Maklin --- corymaklin
 Alexander S. Augenstein --- alexander.s.augenstein
-Cornellius Yudha Wijaya --- cornelliusyudhawijaya
 Synced --- synced
 Jesus Rodriguez --- jrodthoughts
 ODSC - Open Data Science --- odsc
 Madison Hunter --- madison13
-Vatsal --- vatsal12-p
 Devansh- Machine Learning Made Simple --- machine-learning-made-simple
 Anil Tilbe --- AnilTilbe
-Mehul Gupta --- mehulgupta_7991
 Cobus Greyling --- cobusgreyling
+Mehul Gupta --- mehulgupta_7991
 Nikos Kafritsas --- nikoskafritsas
 Bharath K --- bharath-k1297
 Faisal Khan --- khanfk
-James Marinero --- james-marinero
 Gianluca Malato --- gianlucamalato
-Rukshan Pramoditha --- rukshanpramoditha
-Amit Chauhan --- amitprius
-John Ball --- john-at-pat
-Yancy Dennis --- dennisyd
-Satish Chandra Gupta --- scgupta
+James Marinero --- james-marinero
 Marcello Politi --- marcellopoliti
+John Ball --- john-at-pat
+Amit Chauhan --- amitprius
+Rukshan Pramoditha --- rukshanpramoditha
+Satish Chandra Gupta --- scgupta
+Yancy Dennis --- dennisyd
 Sofien Kaabar, CFA --- kaabar-sofien
 Louis Bouchard --- whats-ai
 Kevin Dewalt --- kevindewalt
@@ -47,56 +45,58 @@ Angelica Lo Duca --- alod83
 Naina Chaturvedi --- naina0412
 Dariusz Gross #DATAsculptor --- datasculptor
 Ching (Chingis) --- chingisoinar
-Egor Howell --- egorhowell
 Renu Khandelwal --- arshren
+Egor Howell --- egorhowell
 Suhas Maddali --- suhas-maddali007
-Salvatore Raieli --- salvatore-raieli
 Bisma Farrukh --- pencihub
+Salvatore Raieli --- salvatore-raieli
 Carla Martins --- cdanielaam
 Alain Saamego --- alains
 Nico Nobili --- sirnicknite
-Eva Rtology --- evartology
 Naoki --- naokishibuya
+Eva Rtology --- evartology
 Tirendaz Academy --- tirendazacademy
+Onepagecode --- onepagecodewriter
 Alex C-G --- alexcg1
-Jack --- usernamejack
 Jair Ribeiro --- jairribeiro
 Levente --- Levente22
+Bruno Aziza --- brunoaziza
 Jennifer Wales --- jennifer.wales22
 Roman Paolucci --- romanmichaelpaolucci
-Bruno Aziza --- brunoaziza
 T.Ferguson --- fergie19702004_40140
 Lakshmi Narasimman V --- narasimman_tech
 Nabib Ahmed --- nahmed3536
 Trent McConaghy --- trentmc0
 Avi Loeb --- avi-loeb
 Fatos Morina --- fatosmorina
+Borna Ahmadzadeh --- borna-ahz
 Gowtham S R --- gowthamsr37
+Eeman Majumder --- eeman.majumder
 Haley Lowy --- haley.lowy
 Monodeep Mukherjee --- monocosmo77
-Bennett Garner --- bennettgarner
 Сергей Карелов --- sergey-57776
+Bennett Garner --- bennettgarner
 Rob Smith --- rsmith_6156
 Dennis Niggl --- dniggl
-Akhilesh Gogikar --- akhileshgogikar
 Shuchen Du --- dushuchen
 Sharad Joshi --- sharadjoshi
-Ashmi Banerjee --- ashmi_banerjee
 Khang Pham --- khang.pham.exxact
+Iulia Turc --- turc.raluca
 Siddhesh Bangar --- siddheshb008
 Moamen Elabd --- arch.mo2men
+Ashmi Banerjee --- ashmi_banerjee
 Vin Bhalerao --- vinbhalerao
-slashdotted --- slashdotted
-Sahir Dhalla --- sahir-dhalla
 Gajendra --- gajendra.k.s
-Napoleon --- nafbeltran
-dotmoovs --- dotmoovs
+Sahir Dhalla --- sahir-dhalla
 Gencay I. --- geencay
+dotmoovs --- dotmoovs
 Caleb M. Bowyer --- CalebMBowyer
-Ebrahim Haque Bhatti --- ebrahimhaqbhatti516
+slashdotted --- slashdotted
 Data Science Wizards --- datasciencewizards
+Napoleon --- nafbeltran
+Ebrahim Haque Bhatti --- ebrahimhaqbhatti516
 Serokell --- serokell
+CЯYPT!K --- LINKGOD.COM
 Cezar Taurion --- c-taurion
 Keno Leon --- k3no
-CЯYPT!K --- LINKGOD.COM
-Mukesh Kumar --- coldperformer
+Adam Votava --- adamvotava

@@ -1,5 +1,5 @@
 #-- title: Get Article's Content
-#-- description: To get Medium Article's textual content for given article_id
+#-- description: To get Medium Article's textual content for given article_id.
 #-- tags: python, medium_api, medium_api_py
 
 
@@ -16,6 +16,6 @@ api_key = os.getenv('RAPIDAPI_KEY')
 medium = Medium(api_key)
 
 #%%
-# Get the `Article` object and print its content
+# Get the "Article" object and print its content
 article = medium.article(article_id="3134743262d9")
 print(article.content)

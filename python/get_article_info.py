@@ -16,7 +16,7 @@ api_key = os.getenv('RAPIDAPI_KEY')
 medium = Medium(api_key)
 
 #%%
-# Get the `Article` object
+# Get the "Article" object
 article = medium.article(article_id="799b2aa6ada3", save_info=True)
 
 #%%

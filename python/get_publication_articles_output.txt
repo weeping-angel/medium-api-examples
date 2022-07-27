@@ -1,3 +1,9 @@
+Forecasting Electricity Production-Probabilistic Time Series Algorithm from Scratch
+AI Is Unreliable
+How To Build an NLP Pipeline On AWS
+What’s It Like to Work in Applied AI?
+This AI newsletter is all you need #5
+Top 5 Essential Machine Learning Libraries for Financial Engineering
 A Gentle Introduction to Representation Learning
 5 Must-Know Machine Learning Libraries on GitHub; One is a Must-Learn
 5 Must-Know NLP Libraries on GitHub; One is a Must-Learn
@@ -17,9 +23,3 @@ Blockchain and NLP: top 10 approaches and opportunities
 Produce Amazing Artworks with Text and Sketches!
 10 of the Most Important Recurrent Neural Networks For AI
 Bayesian Inference: The Best 5 Models and 10 Best Practices for Machine Learning
-The Future of AI Is Quantum Computing: 10 of the Most Important Use Cases
-Unstructured vs. Structured Data: The 5 Most Important Differences
-Automate Login With Python And Selenium
-Tools to Use When Building Sentiment Analyzer
-Regression Analysis Is Exceedingly Difficult: How to Master It Without Coding
-AI simplified: Data as a Service and 9 essential best practices

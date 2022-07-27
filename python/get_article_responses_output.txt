@@ -1,11 +1,46 @@
 very well said… When it all comes down, those who will stand are those who simply have a solid understanding of the basics… Because Algorithms would come and go, but a good, solid foundation in ML knowledge would transcend any major findings in time.
+
+
+---
+
+
 If its without any exception you shouldn't qualify it with 'almost'.
+
+
+---
+
+
 Can't agree more with Nishu and the commenters, at the end of the day, its about having a good team with a good grasp on tools available and how to formulate the problem.
 
 However, Nishu and the responders have demonstrated the key feature for successful implementation of ML/AI: collaborative, positive, communications that develop individuals, groups and teams. I am always pleasantly surprised at the well-written responses from every one on this platform. Give me a focused team that can effectively communicate and we can solve any problem.
+
+
+---
+
+
 An algo only works well in one scenario, even if it is really a good one. That's why you find creating a new algo kind of meaningless but also, why the creation keeps going cuz some critical problems are still waiting for new methods to solve.
+
+
+---
+
+
 I agree! Reminds me of another famous quote, by Albert Einstein: "If I had an hour to solve a problem and my life depended on the solution, I would spend the first 55 minutes determining the proper question to ask, for once I know the proper question, I could solve the problem in less than five minutes."
+
+
+---
+
+
 The money is in matching and adapting algorithms to business problems.
 
 The research is great and interesting but it's a long road from there to the coal face of business.
+
+
+---
+
+
 It's a strawman argument. No one claimed there is a best algorithm for all problems because the no-free lunch theorem is well known in the community.
+
+
+---
+
+
