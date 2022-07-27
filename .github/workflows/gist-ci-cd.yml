@@ -1,4 +1,4 @@
-name: GIST CD on main branch and example directory change
+name: Continous Deployment on "main" branch
 
 # Check if files have been pushed to ./examples
 on:
@@ -25,11 +25,11 @@ jobs:
       with:
         python-version: ${{ matrix.python-version }}
 
-    - name: Install gistyc
+    - name: Install repo-gist-sync
       run: pip install repo-gist-sync
 
-    - name: Use gistyc CLI on "python" directory
+    - name: Use repo-gist-sync CLI on "python" directory
       run: gistdirsync --auth-token ${{ secrets.GIST_TOKEN }} --directory ./python/
 
-    - name: Use gistyc CLI on "curl" directory
+    - name: Use repo-gist-sync CLI on "curl" directory
       run: gistdirsync --auth-token ${{ secrets.GIST_TOKEN }} --directory ./curl/
