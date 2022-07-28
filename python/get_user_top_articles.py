@@ -1,4 +1,4 @@
-#-- title: Get User's ID
+#-- title: Get User's Top Articles
 #-- description: Code to get top 10 user-written articles on their profile
 #-- tags: python, medium_api, medium_api_py
 
