@@ -1,5 +1,5 @@
-#-- title: Get Publication Articles
-#-- description: Code to get recently published articles on a Medium Publication.
+#-- title: Get Publication Newsletter
+#-- description: Code to get newsletter-related information for the given publication
 #-- tags: python, medium_api, medium_api_py
 
 
