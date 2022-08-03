@@ -1,0 +1,6 @@
+ID:  d710a73cd042
+Name:  This AI newsletter is all you need
+Description:  We have moved our newsletter. Subscribe → https://ws.towardsai.net/subscribe
+Slug:  this-ai-newsletter-is-all-you-need
+Subscribers:  6748
+Image URL:  https://miro.medium.com/1*j2OVd7j2o2FHeE7T8TzpXw.png

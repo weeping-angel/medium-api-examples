@@ -24,6 +24,7 @@ user = medium.user(username="nishu-jain")
 print('Fullname: ', user.fullname)
 print('Bio: ', user.bio)
 print('Profile Image: ', user.image_url)
+print('Top Writer In: ', user.top_writer_in)
 
 print('User Written Articles: ', len(user.article_ids))
 

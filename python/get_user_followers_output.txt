@@ -27,6 +27,7 @@ Bradley Robinson, M.D.
 BichoDoMato
 Jinyoung Lim
 Michael Plavnik
+Moisés Briseño Estrello
 nir segev
 Reese Rivera
 Suarezandres
@@ -209,6 +210,7 @@ Karma Bertelsen
 Surasak Choedpasuporn
 Abdul Mustafa
 Santosh Khelge
+Devanshi Bhargava
 Aferim Gambatte
 Mark Farnsworth
 Jadlaoui Abderrazak
@@ -276,7 +278,6 @@ nid
 Yve Laran
 Kathydannelvitcak
 Joseph Catanzarite
-Kate Strong
 Gautier Appert
 Dan M.
 David Oort Alonso
