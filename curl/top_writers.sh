@@ -1,0 +1,1 @@
+curl -H "x-rapidapi-key: $RAPIDAPI_KEY" https://medium2.p.rapidapi.com/top_writers/artificial-intelligence

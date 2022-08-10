@@ -1,0 +1,1 @@
+curl -H "x-rapidapi-key: $RAPIDAPI_KEY" https://medium2.p.rapidapi.com/user/id_for/nishu-jain

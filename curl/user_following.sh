@@ -1,0 +1,1 @@
+curl -H "x-rapidapi-key: $RAPIDAPI_KEY" https://medium2.p.rapidapi.com/user/14d5c41e0264/following
