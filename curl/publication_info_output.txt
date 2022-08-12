@@ -1,7 +1,19 @@
 {
-   "creator" : "8a819983d566",
+   "id" : "98111c9905da",
+   "name" : "Towards AI",
+   "slug" : "towards-artificial-intelligence",
+   "tagline" : "The leading AI community and content platform focused on making AI accessible to all",
    "description" : "The leading AI community and content platform focused on making AI accessible to all",
+   "tags" : [
+      "ARTIFICIAL INTELLIGENCE",
+      "MACHINE LEARNING",
+      "DATA SCIENCE",
+      "PROGRAMMING",
+      "DEEP LEARNING"
+   ],
+   "followers" : 27863,
    "domain" : "pub.towardsai.net",
+   "creator" : "8a819983d566",
    "editors" : [
       "8a819983d566",
       "aea8a19ea239",
@@ -13,20 +25,8 @@
       "d2b799b51ffa"
    ],
    "facebook_pagename" : "towardsAl",
-   "followers" : 27863,
-   "id" : "98111c9905da",
    "instagram_username" : "towards_ai",
-   "logo" : "https://miro.medium.com/1*NIT82G_xlaooOWm_pTtb1A.png",
-   "name" : "Towards AI",
-   "slug" : "towards-artificial-intelligence",
-   "tagline" : "The leading AI community and content platform focused on making AI accessible to all",
-   "tags" : [
-      "ARTIFICIAL INTELLIGENCE",
-      "MACHINE LEARNING",
-      "DATA SCIENCE",
-      "PROGRAMMING",
-      "DEEP LEARNING"
-   ],
    "twitter_username" : "towards_AI",
+   "logo" : "https://miro.medium.com/1*NIT82G_xlaooOWm_pTtb1A.png",
    "url" : "pub.towardsai.net"
 }

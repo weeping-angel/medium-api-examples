@@ -1,27 +1,29 @@
 {
+   "id" : "b7d838c84f72",
+   "title" : "How to Play Music Using Mathematics in Python",
+   "subtitle" : "Mathematics of Music",
    "author" : "1985b61817c3",
-   "claps" : 70,
-   "id" : "562c5821b5f0",
-   "image_url" : "https://miro.medium.com/1*4cUFmh4kDyGvf4y-73tBaA.png",
-   "lang" : "en",
-   "last_modified_at" : "2022-02-15 06:27:57",
-   "publication_id" : "*Self-Published*",
-   "published_at" : "2021-04-17 17:42:10",
-   "reading_time" : 2.3720125786164,
-   "responses_count" : 0,
-   "subtitle" : "Who am I and what do I doÂ â¦",
+   "claps" : 274,
+   "voters" : 51,
    "tags" : [
-      "about-me",
-      "nishu-jain",
-      "bio",
-      "software-engineer",
-      "introduction"
+      "programming",
+      "python",
+      "mathematics",
+      "music",
+      "coding"
    ],
-   "title" : "About MeÂ :)âââNishu Jain",
+   "responses_count" : 4,
+   "word_count" : 1179,
+   "publication_id" : "7f60cf5620c9",
+   "reading_time" : 5.1490566037736,
+   "published_at" : "2020-10-07 14:18:50",
+   "last_modified_at" : "2021-08-25 16:19:17",
    "topics" : [
-      "self"
+      "math",
+      "data-science",
+      "programming"
    ],
-   "url" : "https://nishu-jain.medium.com/about-me-nishu-jain-562c5821b5f0",
-   "voters" : 4,
-   "word_count" : 527
+   "lang" : "en",
+   "url" : "https://towardsdatascience.com/mathematics-of-music-in-python-b7d838c84f72",
+   "image_url" : "https://miro.medium.com/1*aNnZHUx6H1A5QbEJtK6lmA.png"
 }

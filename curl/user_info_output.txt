@@ -1,15 +1,15 @@
 {
-   "allow_notes" : true,
+   "id" : "1985b61817c3",
+   "username" : "nishu-jain",
+   "fullname" : "Nishu Jain",
    "bio" : "Obsessed with Tech, Biz, Arts & Words; Does NOT dumb down the writing; Skilled Wordsmith; Delivers the best",
    "followers_count" : 357,
    "following_count" : 4,
-   "fullname" : "Nishu Jain",
-   "id" : "1985b61817c3",
-   "image_url" : "https://miro.medium.com/1*C92Hx7k9nRM7TPlrmhgW9w.jpeg",
+   "top_writer_in" : {},
+   "twitter_username" : "one_anachronism",
    "is_suspended" : false,
    "is_writer_program_enrolled" : true,
    "medium_member_at" : "",
-   "top_writer_in" : {},
-   "twitter_username" : "one_anachronism",
-   "username" : "nishu-jain"
+   "allow_notes" : true,
+   "image_url" : "https://miro.medium.com/1*C92Hx7k9nRM7TPlrmhgW9w.jpeg"
 }
