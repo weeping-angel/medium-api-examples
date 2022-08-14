@@ -5,6 +5,7 @@
 
 # Import libraries
 import os
+from datetime import datetime, timedelta
 from medium_api import Medium
 
 #%%
@@ -17,11 +18,15 @@ medium = Medium(api_key)
 
 #%%
 # Create a "Publication" Object
-publication = medium.publication(publication_id="98111c9905da")
+publication = medium.publication(publication_id="98111c9905da", save_info=False)
+
 
 #%%
-# Fetch publication articles and print their titles
-publication.fetch_articles()
+# Fetch publication articles published within last week's days
+last_weeks_articles = publication.get_articles_between(
+                                _from=datetime.now(), 
+                                _to=datetime.now() - timedelta(days=7)
+                            )
 
-for article in publication.articles:
-    print(article.title)
+for article in last_weeks_articles:
+    print(article.title, f'({article.published_at})')
