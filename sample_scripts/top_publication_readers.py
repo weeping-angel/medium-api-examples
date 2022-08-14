@@ -4,7 +4,7 @@ from collections import Counter
 from medium_api import Medium
 import matplotlib.pyplot as plt
 from datetime import datetime, timedelta
-from pprint import pprint
+from itertools import takewhile
 
 #%%
 # Create a Medium Object
@@ -21,33 +21,38 @@ publication_articles = publication.get_articles_between(
                                             _to = datetime.now() - timedelta(days=30)
                                     )
 
-print("Total Articles", len(set(publication_articles)))
+print("Total Articles: ", len(set(publication_articles)), '\n')
 print("Latest Article: ", publication_articles[0].published_at)
 print("Oldest Article: ", publication_articles[-1].published_at)
 
 #%%
 # Filter articles that have responses on them
 articles_with_responses = [article for article in publication_articles if article.responses_count!=0]
-print('Articles with responses: ', len(articles_with_responses))
+print('\nArticles with responses: ', len(articles_with_responses), '\n')
 
 #%%
 # Retrieve all the responders from all the comments from all the filtered articles
-responders = []
+authors = []
 for article in articles_with_responses:
-    print(article.title, '---', article.responses_count)
+    print('>>> ', article.title)
     article.fetch_responses()
-    for response in article.responses:
-        responder = response.author
-        responder.save_info()
-        print('  - ',responder.username)
-        responders.append(responder.username)
+    authors += [response.author for response in article.responses]
+
+medium.fetch_users(authors)
+responders = [author.username for author in authors]
 
 results = Counter(responders)
-pprint(results)
 
+most_comments_num = results.most_common(1)[0][1]
+top_commenters = [i[0] for i in takewhile(lambda x: x[1]==most_comments_num, results.most_common())]
+
+
+print(f"\nNumber of people who commented on Articles: {len(results)}")
+print(f"Total number of comments: {len(responders)}")
+print(f"People who commented the most ({most_comments_num} times): {', '.join(top_commenters)}")
 #%%
 # Plotting histogram of the results
 plt.bar(results.keys(), results.values())
 plt.xlabel(xlabel="username")
-plt.xticks(rotation=90)
+plt.xticks(rotation=45)
 plt.show()
