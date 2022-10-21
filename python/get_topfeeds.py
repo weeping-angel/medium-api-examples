@@ -17,7 +17,7 @@ medium = Medium(api_key)
 
 #%%
 # Create a "TopFeeds" Object with mode="new"
-topfeeds = medium.topfeeds(tag="relationships", mode="new")
+topfeeds = medium.topfeeds(tag="blockchain", mode="new")
 
 # Fetch all the articles information
 topfeeds.fetch_articles()
