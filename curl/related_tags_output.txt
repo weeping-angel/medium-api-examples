@@ -1,0 +1,14 @@
+{
+   "given_tag" : "blockchain",
+   "related_tags" : [
+      "cryptocurrency",
+      "bitcoin",
+      "ethereum",
+      "crypto",
+      "ico",
+      "technology",
+      "defi",
+      "nft",
+      "fintech"
+   ]
+}
