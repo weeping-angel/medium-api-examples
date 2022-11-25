@@ -20,7 +20,7 @@ related_tags = medium.related_tags(niche_tag)
 
 # Fetch Top Writers for each corresponding related niche tag
 for tag in related_tags:
-    print(f'- Getting Top Writers for "{tag}"')
+    print(f'- Getting Top Writers for "{tag}".')
     top_writers = medium.top_writers(tag)
     niche_top_writers += top_writers.users
 
