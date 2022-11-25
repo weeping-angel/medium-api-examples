@@ -6,6 +6,7 @@ on:
     paths:
       - python/**
       - curl/**
+      - sample_scripts/**
 
 jobs:
   build:
