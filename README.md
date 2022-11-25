@@ -26,6 +26,7 @@
 
 | Gists | Embed Links |
 | --- | --- |
+| [Related Tags](https://gist.github.com/weeping-angel/6a0628389b1b1b27b9cc893c7c0181f4) | [related_tags.sh](https://gist.github.com/weeping-angel/6a0628389b1b1b27b9cc893c7c0181f4.js?file=related_tags.sh), [related_tags_output.txt](https://gist.github.com/weeping-angel/6a0628389b1b1b27b9cc893c7c0181f4.js?file=related_tags_output.txt)
 | [Top Writers](https://gist.github.com/weeping-angel/9217562c854f85a2c949fb497ceb8cbc) | [top_writers.sh](https://gist.github.com/weeping-angel/9217562c854f85a2c949fb497ceb8cbc.js?file=top_writers.sh), [top_writers_output.txt](https://gist.github.com/weeping-angel/9217562c854f85a2c949fb497ceb8cbc.js?file=top_writers_output.txt)
 | [LatestPosts](https://gist.github.com/weeping-angel/dad4f1382928798b5d2dbfd1fd9c8c38) | [latestposts.sh](https://gist.github.com/weeping-angel/dad4f1382928798b5d2dbfd1fd9c8c38.js?file=latestposts.sh), [latestposts_output.txt](https://gist.github.com/weeping-angel/dad4f1382928798b5d2dbfd1fd9c8c38.js?file=latestposts_output.txt)
 | [User's ID](https://gist.github.com/weeping-angel/ac33f3d869ea8a859052fbb98e988385) | [user_id.sh](https://gist.github.com/weeping-angel/ac33f3d869ea8a859052fbb98e988385.js?file=user_id.sh), [user_id_output.txt](https://gist.github.com/weeping-angel/ac33f3d869ea8a859052fbb98e988385.js?file=user_id_output.txt)
