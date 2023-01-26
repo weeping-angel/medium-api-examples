@@ -24,6 +24,8 @@
       "programming"
    ],
    "lang" : "en",
+   "is_locked" : true,
+   "is_series" : false,
    "url" : "https://towardsdatascience.com/mathematics-of-music-in-python-b7d838c84f72",
    "image_url" : "https://miro.medium.com/1*aNnZHUx6H1A5QbEJtK6lmA.png"
 }
