@@ -1,9 +1,10 @@
 .vscode
 venv
 __pycache__
+.DS_Store
 
 
 embed_gen.py
 generate_output_files.py
 gist_list_gen.py
-generate_carbon_images.py
+generate_kod-so_images.py
