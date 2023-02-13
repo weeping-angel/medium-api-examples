@@ -1,19 +1,18 @@
 {
-   "mode" : "NEW",
-   "tag" : "ethereum",
    "topfeeds" : [
-      "b06fa4a43450",
-      "eed52917813c",
-      "7fdd9e0733ad",
-      "12be441f94a0",
-      "30d5204a1bd3",
-      "e3335729d3c2",
-      "d54885e6c834",
-      .
-      .
-      .
-      "f685c5075a52",
-      "defdff20b1c7",
-      "dc2554e14184"
-   ]
+      "6e2c90a45030",
+      "4eb76a72e072",
+      "2cad59bfe9b8",
+      "8cb195c9af97",
+      "bd8918cf2ab4",
+      "211b10c37ae8",
+      "4fb32edd7f08",
+      "bf8c8c4ada67",
+      "8e6a9388252e",
+      "44ea80189ed2"
+   ],
+   "tag" : "ethereum",
+   "mode" : "NEW",
+   "count" : "10",
+   "after" : "0"
 }
