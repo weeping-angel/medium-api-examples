@@ -17,10 +17,10 @@ medium = Medium(api_key)
 
 #%%
 # Create a "TopWriters" Object
-ai = medium.top_writers(topic_slug="artificial-intelligence")
-
-# Top writers count in "artificial-intelligence"
-print(len(ai.ids), '\n')
+ai = medium.top_writers(
+        topic_slug="artificial-intelligence",
+        count = 10
+    )
 
 #%%
 # Fetch top writers and print their 'fullname' and 'username'

@@ -1,102 +1,10 @@
-100 
-
-Avi Chawla --- avi_chawla
-Will Lockett --- wlockett
-Bex T. --- ibexorigin
+The PyCoach --- frank-andrade
+Ignacio de Gregorio --- ignacio.de.gregorio.noblejas
+Al Anany --- alanany
+Sanjay Priyadarshi --- sanjay-priyadarshi
+aruva - empowering ideas --- aruva
 Jim Clyde Monge --- jimclydemonge
 Alberto Romero --- albertoromgar
-Moez Ali --- moez-62905
+Bex T. --- ibexorigin
+The Latest Now - AI --- thelatestnow
 Sik-Ho Tsang --- sh-tsang
-Cornellius Yudha Wijaya --- cornelliusyudhawijaya
-Fabio Chiusano --- chiusanofabio94
-Aman Kharwal --- amankharwal
-Cassie Kozyrkov --- kozyrkov
-Towards AI Editorial Team --- towardsai
-Cory Maklin --- corymaklin
-Alexander S. Augenstein --- alexander.s.augenstein
-Synced --- synced
-Jesus Rodriguez --- jrodthoughts
-Anil Tilbe --- AnilTilbe
-ODSC - Open Data Science --- odsc
-Madison Hunter --- madison13
-Cobus Greyling --- cobusgreyling
-Devansh- Machine Learning Made Simple --- machine-learning-made-simple
-Mehul Gupta --- mehulgupta_7991
-Nikos Kafritsas --- nikoskafritsas
-Bharath K --- bharath-k1297
-Gianluca Malato --- gianlucamalato
-Marcello Politi --- marcellopoliti
-Amit Chauhan --- amitprius
-John Ball --- john-at-pat
-Yancy Dennis --- dennisyd
-Satish Chandra Gupta --- scgupta
-Abhay Parashar --- abhayparashar31
-Faisal Khan --- khanfk
-Rukshan Pramoditha --- rukshanpramoditha
-Sofien Kaabar, CFA --- kaabar-sofien
-Louis Bouchard --- whats-ai
-James Marinero --- james-marinero
-Vishal Rajput --- vishal-ai
-Stefan Pircalabu --- stefanpircalabu
-ANAI: An 'All-in-One' No Code AI platform --- ANAI-DemocratizingAI
-Angelica Lo Duca --- alod83
-李謦伊 --- chingi071
-Thushan Ganegedara --- thushv89
-Naina Chaturvedi --- naina0412
-Ching (Chingis) --- chingisoinar
-Dariusz Gross #DATAsculptor --- datasculptor
-Egor Howell --- egorhowell
-Eryk Lewinson --- eryk-lewinson
-Salvatore Raieli --- salvatore-raieli
-Bisma Farrukh --- pencihub
-Renu Khandelwal --- arshren
-Jair Ribeiro --- jairribeiro
-Suhas Maddali --- suhas-maddali007
-Alain Saamego --- alains
-Nico Nobili --- sirnicknite
-Naoki --- naokishibuya
-Levente --- Levente22
-Bruno Aziza --- brunoaziza
-Eva Rtology --- evartology
-Onepagecode --- onepagecodewriter
-Bennett Garner --- bennettgarner
-Aviral Bhardwaj --- iaviral
-Jennifer Wales --- jennifer.wales22
-Carla Martins --- cdanielaam
-Tirendaz Academy --- tirendazacademy
-Roman Paolucci --- romanmichaelpaolucci
-T.Ferguson --- fergie19702004_40140
-Nabib Ahmed --- nahmed3536
-LucianoSphere --- lucianosphere
-Alex C-G --- alexcg1
-Iulia Turc --- turc.raluca
-Eeman Majumder --- eeman.majumder
-Fatos Morina --- fatosmorina
-Gowtham S R --- gowthamsr37
-Monodeep Mukherjee --- monocosmo77
-Haley Lowy --- haley.lowy
-Сергей Карелов --- sergey-57776
-Trent McConaghy --- trentmc0
-Walid Saba, PhD --- ontologik
-Shuchen Du --- dushuchen
-Matthew Macias --- matthew-macias
-Dennis Niggl --- dniggl
-Rob Smith --- rsmith_6156
-Avi Loeb --- avi-loeb
-M. Haseeb Hassan --- hacceebhassan
-Gajendra --- gajendra.k.s
-Sharad Joshi --- sharadjoshi
-Khang Pham --- khang.pham.exxact
-Moamen Elabd --- arch.mo2men
-Siddhesh Bangar --- siddheshb008
-Mike Wolfe --- miketechgame
-Gencay I. --- geencay
-Vin Bhalerao --- vinbhalerao
-Ari Joury, PhD --- arijoury
-Ayush Jain --- ayush.aj38
-Caleb M. Bowyer --- CalebMBowyer
-CЯYPT!K --- LINKGOD.COM
-Data Science Wizards --- datasciencewizards
-Sahir Dhalla --- sahir-dhalla
-Mukesh Kumar --- coldperformer
-Serokell --- serokell
