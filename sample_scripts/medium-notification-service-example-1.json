@@ -1,0 +1,45 @@
+{
+    "data": {
+      "new_articles": [
+        {
+          "id": "90a01549d8db",
+          "title": "Medium API — Documentation",
+          "subtitle": "Getting started with Medium API",
+          "author": "Nishu Jain",
+          "publication": "Geek Culture",
+          "published_at": "2022-08-15 13:35:49",
+          "claps": 382,
+          "voters": 35,
+          "word_count": 1789,
+          "responses_count": 8,
+          "tags": [
+            "programming",
+            "data-science",
+            "technology",
+            "api",
+            "medium"
+          ],
+          "topics": [
+            "data-science",
+            "programming"
+          ],
+          "reading_time": 6.95,
+          "image_url": "https://miro.medium.com/1*qQBtXRQDjyhZadgS60Fx3w.png",
+          "url": "https://medium.com/geekculture/medium-api-documentation-90a01549d8db",
+          "last_modified_at": "2023-02-13 18:23:44",
+          "lang": "en",
+          "content": [
+             "paragraph-wise content",
+             "paragraph A",
+             "paragraph B",
+             "last paragraph"
+          ]
+        },
+        .
+        .
+        .
+      ],
+      "source": "https://medium.com/tag/programming",
+      "timestamp": "2023-02-23 16:31:59.999375"
+    }
+  }
