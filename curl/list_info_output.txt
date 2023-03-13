@@ -1,0 +1,14 @@
+{
+   "id" : "38f9e0f9bea6",
+   "name" : "Medium API",
+   "description" : "Collections of all the articles and resources related to Medium API",
+   "count" : 18,
+   "author" : "1985b61817c3",
+   "claps" : 48,
+   "voters" : 1
+   "responses_count" : 1,
+   "created_at" : "2023-03-12 06:46:46",
+   "last_item_inserted_at" : "2023-03-12 06:53:02",
+   "thumbnail" : "https://miro.medium.com/0*8f634a2860234802375db89fbfcccb5cc717f3fd.jpeg",
+   
+}

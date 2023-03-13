@@ -13,8 +13,7 @@ def preprocess(filename):
 
     return ''.join(codelines).strip('\n')
 
-def generate_image(code:str, lang:str, filepath:str):
-    bg = 'bg-2.jpg'
+def generate_image(code:str, lang:str, filepath:str, bg:str = 'none'):
     theme = 'nord'
     padding_tb = 65
     padding_lr = 105
@@ -39,8 +38,16 @@ def main():
                 params = { 
                     "code": preprocess(f"{directory}/{file}"),
                     "lang": lang,
-                    "filepath": f'images/{directory}/{filename}.png'
+                    "filepath": f'images/{directory}/{filename}.png',
+                    "bg": 'bg-2.jpg'
                 }
+
+                generate_image(**params)
+
+                # generate transparent counterpart
+
+                params['bg'] = 'none'
+                params['filepath'] = f"images/{directory}/{filename}-transparent.png"
 
                 generate_image(**params)
         

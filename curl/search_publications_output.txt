@@ -1,0 +1,14 @@
+{
+   "publications" : [
+      "8d6b8a439e32",
+      "b224b324ef5",
+      "efea2976ffad",
+      .
+      .
+      .
+      "ed4a26019c88",
+      "9bad29def407",
+      "10bdb59e2123"
+   ],
+   "search_query" : "mental health"
+}

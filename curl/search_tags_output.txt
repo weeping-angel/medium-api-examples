@@ -1,0 +1,14 @@
+{
+   "search_query" : "blockchain",
+   "tags" : [
+      "blockchain",
+      "blockchain-startup",
+      "blockchain-technology",
+      .
+      .
+      .
+      "blockchainutilitymarket",
+      "blockchainuseecosysytem",
+      "blockchainupgrade"
+   ]
+}

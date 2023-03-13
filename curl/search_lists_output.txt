@@ -1,0 +1,14 @@
+{
+   "lists" : [
+      "aa7010a5e263",
+      "83e46ac41297",
+      "f6c71394fbdc",
+      .
+      .
+      .
+      "9ad209d4a87a",
+      "a9a508a38505",
+      "8eef93ab39cd"
+   ],
+   "search_query" : "artificial intelligence"
+}
