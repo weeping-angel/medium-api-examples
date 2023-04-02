@@ -1,0 +1,8 @@
+{
+   "tag" : "artificial-intelligence",
+   "name" : "Artificial Intelligence",
+   "articles_count" : 234250,
+   "authors_count" : 87802,
+   "latest_articles_count" : 483,
+   "latest_authors_count" : 296,
+}
