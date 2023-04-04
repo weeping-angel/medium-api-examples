@@ -13,96 +13,11 @@ Teacher Forcing — Summary
 Medium Notification Service
 How To Get Articles Written By a Medium User Using JavaScript
 How To Convert Medium Articles In Markdown Format
-Prompt Engineering 101
-What motivate humans beside money?
-How Crypto People Can Use Medium API?
-How To List Hundreds of Niche Top Writers of Medium
-The Secret To Staying Relevant In Any Industry: “Timeless Mental Models”
-Network Effect 🕸️
-4 Types of Luck 🍀
-Ego is your Superpower! And it’ll make you happy and successful
-AGI is possible when “will to survive” is coded into it. 🤖
-The Most Important Skill for CryptoJunkies 👾
-Medium API: Get Posts Using Python
-How to Find the Top Readers of a Medium Publication Using Python
-5 Game Theory Concepts To Effectively Navigate In Life
-“Three Laws of Robotics”
-Powerful SEO Mindset — Things That Work, No Matter What 🥸
-How to do internal link building when you’ve hundreds of blogs?
-How to design incentives that work?
-What is REST API? And why it is useful?
-Being Clever In This Dumb World
-Don’t List Your API on RapidAPI, Never! 😡
-How to solve Principal-Agent Problem?
-Freelancing cannot make you wealthy
-Booming Creator Economy & The Hyper-Connected World
-How To Leverage Medium for Crypto-trading
-AWS: S3 vs EFS vs EBS
-AWS CloudFront With S3 Bucket Vs. Github Pages
-5 ways to swap 2 variables
-Why Your Role Model Should Be Hypothetical
-Why Brainies are less socialized?
-Web Crawlers: Spies of the Internet
-Why Decentralized Exchanges Are Philosophically And Practically Better?
-Medium API: Get Posts Using Node.js
-3 Benefits of Blockchain Technology
-Best Metric to Judge a Medium Article’s Popularity
-Medium API: Get Posts Using Python
-How To Retrieve Medium Stories For A User From The API?
-Medium APIs — Documentation
-Solving Blockchain Trilemma — Ultimate Goal of All Decentralized Networks
-Space as a Monochromatic Barrier
-The Neutrality of Death
-A Comparison Between Scrum and Extreme Programming
-A Deeper Dive Into Minimalism
-WordPress vs Shopify: Who’s the Winner?
-Separation Anxiety: How to Cope With Leaving Your Beloved Ones
-5 Delicious Nourishments to Eat Under Stress
-Increasing the conversion rate is the holy grail of business —  To do so, every person tries either…
-How Reinforcement Learning is Transforming Banking and Finance For Good
-5 Ways To Invest $100 In 2021
-Want to Play Golf At The Comfort Of Your Home?
-5 Things You Must Do To Battle Against Corona
-You Need to “Experiment” with Your Career to Escape this Rat Race
-7 Rare Tips to Ease Your Anxiety in Quarantine
-4 Valuable Life Skills You Can Learn By Playing Video Games
-Cultivating Mindfulness in the Midst of a Messy Family
-Why Medium Is The Best Platform For Polymathic Writers
-How to be a Great Caregiver
-The Capture
-Into The Mysterious Forest
-How to Regulate Fluctuating Blood Sugar Levels
-Mental Health in uncertain times
-A Comprehensive List of my Best Articles on Mental Health and Anxiety
-Let’s Quantify Consciousness — Rethinking it Mathematically
-How I Accidentally Hacked a Government App By Recognizing a Silly Pattern
-You Avoid Difficult Reads And You Know It
-Understanding Power Dynamics [With a Practical Approach]
-Now AI is Knocking On The Doors of Luxurious Hotels
-How To Find Out Which Cybersecurity Career Is Right for You?
-Is Your Phone Really Listening to You?
-Starting Your First Business? Avoid these 10 Naive Mistakes
-Target Marketing: 3 crucial points for creating a client’s avatar.
-Could Cloud Computing Be the Missing Piece of the Puzzle That Your Business Needs?
-7 Typical Traits of Medically Unsocial People
-Why Machine Learning is Becoming a Joke?
-Why Branding Is About More Than Just Colors
-What’s the Business Model for Open-Source Software Anyway?
-How I Completely Destroyed This Challenge Using “One Line of Code”
-Having Trouble with your Beloved? Stop Denying your Relationship Anxiety
-10 Game-changing AI Breakthroughs Worth Knowing About
-The Ultimate Checklist to Identify Anxiety
-Why it’s Super Hard to be an ML Researcher or Developer?
-How Success and Creativity Kills You Day by Day
-7 Psychologically Proven Tips To Overcome Relationship Anxiety
-How to Play Music Using Mathematics in Python
-An Unseen Anxiety Is Killing Your Finances [2020]
-How I Won a National Level ML Competition with my Unique “Informal Approach”
-Calm Your Anxiety With These 6 Teas [Must-Try]
-Public Speaking is an Art that Can Be Learned!
-Russia’s COVID-19 Vaccine; 1 Out of 7 Volunteers Suffered Side-Effects
-5 Bedtime Routines That Can Obliterate Your Anxiety
-3 Reasons Why 85% of People Never Overcome Anxiety
+
+.
+.
+.
+
 Luck, Quantum entanglement and Psychology
 You’ll Never Be A Great Writer [Not Your Average Article]
 4 Tips to Strengthen Your Bonds — Now
