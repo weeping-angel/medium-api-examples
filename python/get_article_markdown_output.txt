@@ -8,7 +8,7 @@
 
 ---
 
-Do you know what’s the best part of being a [Freelancer](https://fiverr.com/nishu_jain)? I get to meet all kinds of people with all sorts of different problems on their hand.
+Do you know what's the best part of being a [Freelancer](https://fiverr.com/nishu_jain)? I get to meet all kinds of people with all sorts of different problems on their hand.
 
 > Have you ever thought of making money in crypto-trading, "by reading Medium Articles"?
 
@@ -24,7 +24,7 @@ _Wait a second … What???_
 
 **Why scan Medium for crypto-trading opportunities?**
 
-Because, **_"Today, almost all of the new crypto-project owners write a Medium Article about their ‘revolutionary’ technology before launching their token or coin. And it makes it a great hub for gathering information on such projects before market catches on."_**
+Because, **_"Today, almost all of the new crypto-project owners write a Medium Article about their ‘revolutionary' technology before launching their token or coin. And it makes it a great hub for gathering information on such projects before market catches on."_**
 
 To be honest, I was totally amazed by this [information arbitrage](https://whatis.techtarget.com/definition/information-arbitrage) when I first heard about this. I never thought so many blockchain developers and executives would be **first writing on Medium**about their new tokens, features and launches.
 
@@ -58,7 +58,7 @@ So at every hour, the bot scrapes the Medium to look for such articles and sends
 
 ### - bot.py
 
-This file contains a single function called run() which takes the configuration parameters as arguments (defined in config.py). It then initialized the Medium API Object and sets the maximum number of articles to be stored within memory = 1000 (So we don’t notify the same article multiple times).
+This file contains a single function called run() which takes the configuration parameters as arguments (defined in config.py). It then initialized the Medium API Object and sets the maximum number of articles to be stored within memory = 1000 (So we don't notify the same article multiple times).
 
 Then it runs an infinite loop which executes the code at the given FREQUENCY. It fetches the top feeds from the Medium, for the given TAGS, compares it from the existing articles (to remove redundancies) and filters them for the given WORDLIST.
 
@@ -88,13 +88,13 @@ This file only contains the following variables: -
 
 3. Visit [https://mediumapi.com](https://mediumapi.com) for everything related to these APIs
 
-4. Head over to telegram’s bot documentation or a YouTube tutorial for learning to create a telegram bot.
+4. Head over to telegram's bot documentation or a YouTube tutorial for learning to create a telegram bot.
 
 _Happy Coding!_
 
 ---
 
-If you enjoy reading these stories, then I’m sure you would love to be a [Medium paying member](https://nishu-jain.medium.com/membership). It’s only $5 per month, and you’ll get unlimited access to thousands and thousands of stories and writers. You can support me by [**signing up using this link**](https://nishu-jain.medium.com/membership),_and I’ll earn a small commission that will help me grow and publish more stories like this._
+If you enjoy reading these stories, then I'm sure you would love to be a [Medium paying member](https://nishu-jain.medium.com/membership). It's only $5 per month, and you'll get unlimited access to thousands and thousands of stories and writers. You can support me by [**signing up using this link**](https://nishu-jain.medium.com/membership),_and I'll earn a small commission that will help me grow and publish more stories like this._
 
 ---
 
@@ -104,14 +104,4 @@ If you enjoy reading these stories, then I’m sure you would love to be a [Medi
 
 > [**How To Retrieve Medium Stories of a User Using APIs?**](https://pub.towardsai.net/how-to-retrieve-medium-stories-of-a-user-using-apis-fcdb1576558a)
 
-> [**Medium APIs - Documentation**](https://nishu-jain.medium.com/medium-apis-documentation-3384e2d08667)
-
----
-
-Schedule a DDIChat Session in [Blockchain and Cryptocurrency](https://app.ddichat.com/category/blockchain-and-cryptocurrency):
-
-> [**Experts - Blockchain and Cryptocurrency - DDIChat**](https://app.ddichat.com/category/blockchain-and-cryptocurrency)
-
-Apply to be a DDIChat Expert [[here](https://ddintel.datadriveninvestor.com/)](https://app.ddichat.com/expertsignup).
-Work with DDI: [https://datadriveninvestor.com/collaborate](https://datadriveninvestor.com/collaborate)
-Subscribe to DDIntel [[here](https://ddintel.datadriveninvestor.com/)](https://app.ddichat.com/expertsignup).
+> [**Medium API - Documentation**](https://nishu-jain.medium.com/medium-api-documentation-90a01549d8db)

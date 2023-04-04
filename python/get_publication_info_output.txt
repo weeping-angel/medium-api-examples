@@ -1,13 +1,13 @@
 Name:  Towards AI
 Tagline:  The leading AI community and content platform focused on making AI accessible to all
 Description:  The leading AI community and content platform focused on making AI accessible to all
-Followers:  27811
+Followers:  29852
 Tags:  ['ARTIFICIAL INTELLIGENCE', 'MACHINE LEARNING', 'DATA SCIENCE', 'PROGRAMMING', 'DEEP LEARNING']
 Slug:  towards-artificial-intelligence
 URL:  pub.towardsai.net
 Domain:  pub.towardsai.net
-Creator:  Roberto Iriondo
-Editors:  Roberto Iriondo, Towards AI Editorial Team, Omar U. Florez, Pratik Shukla, Sujan Shirol, Louis Bouchard, Louie Peters, Lauren Keegan
+Creator ID:  fb93f4aae2b0
+Editors IDs:  aea8a19ea239, dbf92a012bd3, 92b9872c24de, f34bfe2bbaec, 6b81527bfd6b, 7ac3d1b892d3, 992e6d4605d9, f946f4b3da43, fb93f4aae2b0, 8a819983d566, 56f43ec01c1e, cf3368673867
 Facebook Pagename:  towardsAl
 Twitter Username:  towards_AI
 Instagram Username:  towards_ai

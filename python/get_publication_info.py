@@ -30,8 +30,8 @@ print('Slug: ', publication.slug)
 print('URL: ', publication.url)
 print('Domain: ', publication.domain)
 
-print('Creator: ', publication.creator.fullname)
-print('Editors: ', ', '.join([editor.fullname for editor in publication.editors]))
+print('Creator ID: ', publication.creator._id)
+print('Editors IDs: ', ', '.join([editor._id for editor in publication.editors]))
 
 print('Facebook Pagename: ', publication.facebook_pagename)
 print('Twitter Username: ', publication.twitter_username)

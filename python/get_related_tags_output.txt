@@ -6,4 +6,4 @@ ico
 technology
 defi
 nft
-fintech
+blockchain-technology

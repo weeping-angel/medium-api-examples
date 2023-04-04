@@ -1,7 +1,30 @@
 About Me :) — Nishu Jain
-How I Accidentally Hacked a Government App By Recognizing a Silly Pattern
-10 Game-changing AI Breakthroughs Worth Knowing About
-How I Won a National Level ML Competition with my Unique “Informal Approach”
+Medium API — Documentation
+Added Two New Articles-Related Endpoints!
+10 Meaningful Ways to Spend Your Evenings Instead of Mindless Scrolling!
+Why APIs are the Game-Changers of the Startup World 👾
+Work/Life Balance Is For Losers
+Medium API — Frequently Asked Question (FAQs)
+Medium API and Tokenblogs Join Forces To Revolutionize The NFT Space! 🤝
+How “Memes & Funny Videos” are Shaping Our Friendships?
+Authenticate Medium Users Using Medium API
+9 Surprising Signs of Emotional Maturity in the Workplace
+Teacher Forcing — Summary
+Medium Notification Service
+How To Get Articles Written By a Medium User Using JavaScript
+How To Convert Medium Articles In Markdown Format
+Prompt Engineering 101
+What motivate humans beside money?
+How Crypto People Can Use Medium API?
+How To List Hundreds of Niche Top Writers of Medium
+The Secret To Staying Relevant In Any Industry: “Timeless Mental Models”
+Network Effect 🕸️
+4 Types of Luck 🍀
+Ego is your Superpower! And it’ll make you happy and successful
+AGI is possible when “will to survive” is coded into it. 🤖
+The Most Important Skill for CryptoJunkies 👾
+Medium API: Get Posts Using Python
+How to Find the Top Readers of a Medium Publication Using Python
 5 Game Theory Concepts To Effectively Navigate In Life
 “Three Laws of Robotics”
 Powerful SEO Mindset — Things That Work, No Matter What 🥸
@@ -52,6 +75,7 @@ How to Regulate Fluctuating Blood Sugar Levels
 Mental Health in uncertain times
 A Comprehensive List of my Best Articles on Mental Health and Anxiety
 Let’s Quantify Consciousness — Rethinking it Mathematically
+How I Accidentally Hacked a Government App By Recognizing a Silly Pattern
 You Avoid Difficult Reads And You Know It
 Understanding Power Dynamics [With a Practical Approach]
 Now AI is Knocking On The Doors of Luxurious Hotels
@@ -66,12 +90,14 @@ Why Branding Is About More Than Just Colors
 What’s the Business Model for Open-Source Software Anyway?
 How I Completely Destroyed This Challenge Using “One Line of Code”
 Having Trouble with your Beloved? Stop Denying your Relationship Anxiety
+10 Game-changing AI Breakthroughs Worth Knowing About
 The Ultimate Checklist to Identify Anxiety
 Why it’s Super Hard to be an ML Researcher or Developer?
 How Success and Creativity Kills You Day by Day
 7 Psychologically Proven Tips To Overcome Relationship Anxiety
 How to Play Music Using Mathematics in Python
 An Unseen Anxiety Is Killing Your Finances [2020]
+How I Won a National Level ML Competition with my Unique “Informal Approach”
 Calm Your Anxiety With These 6 Teas [Must-Try]
 Public Speaking is an Art that Can Be Learned!
 Russia’s COVID-19 Vaccine; 1 Out of 7 Volunteers Suffered Side-Effects
@@ -80,5 +106,4 @@ Russia’s COVID-19 Vaccine; 1 Out of 7 Volunteers Suffered Side-Effects
 Luck, Quantum entanglement and Psychology
 You’ll Never Be A Great Writer [Not Your Average Article]
 4 Tips to Strengthen Your Bonds — Now
-Why Do You Need To Have An “Ego-Problem”?
 My Dear Doppelganger …
