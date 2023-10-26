@@ -19,9 +19,9 @@ medium = Medium(api_key)
 # Create an "User" Object and fetch followers
 user = medium.user(username="nishu-jain")
 
-user.fetch_followers()
+user.fetch_all_followers()
 
 #%%
 # Iterate over user followers and print their fullname
-for follower in user.followers:
+for follower in user.all_followers:
     print(follower.fullname)
