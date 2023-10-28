@@ -4,7 +4,6 @@
       "cbcf4f4ddb79",
       "f393206c6626",
       "9933fe7c3c26",
-      "ef71f9c8aad8",
-      "94abddac3bc5"
+      "ef71f9c8aad8"
    ]
 }
