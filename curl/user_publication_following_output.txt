@@ -1,5 +1,4 @@
 {
-   "count" : 2,
    "id" : "1985b61817c3",
    "publication_following" : [
       "aa36b7f642de",
@@ -7,5 +6,6 @@
       .
       .
       .
-   ]
+   ],
+   "count" : 9
 }
