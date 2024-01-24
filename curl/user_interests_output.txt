@@ -7,11 +7,10 @@
     "education",
     "ios-development",
     "venture-capital",
-    "remote-work",
-    "freelancing",
-    "economy",
-    "language",
-    "media",
-    "books"
-  ]
+    .
+    .
+    .
+    
+  ],
+  "count": 50
 }
