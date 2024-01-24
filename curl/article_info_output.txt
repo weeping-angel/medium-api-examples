@@ -1,31 +1,33 @@
 {
-   "id" : "b7d838c84f72",
-   "title" : "How to Play Music Using Mathematics in Python",
-   "subtitle" : "Mathematics of Music",
-   "author" : "1985b61817c3",
-   "claps" : 274,
-   "voters" : 51,
-   "tags" : [
-      "programming",
-      "python",
-      "mathematics",
-      "music",
-      "coding"
-   ],
-   "responses_count" : 4,
-   "word_count" : 1179,
-   "publication_id" : "7f60cf5620c9",
-   "reading_time" : 5.1490566037736,
-   "published_at" : "2020-10-07 14:18:50",
-   "last_modified_at" : "2021-08-25 16:19:17",
-   "topics" : [
-      "math",
-      "data-science",
-      "programming"
-   ],
-   "lang" : "en",
-   "is_locked" : true,
-   "is_series" : false,
-   "url" : "https://towardsdatascience.com/mathematics-of-music-in-python-b7d838c84f72",
-   "image_url" : "https://miro.medium.com/1*aNnZHUx6H1A5QbEJtK6lmA.png"
+  "id": "67fa62fc1971",
+  "title": "Why it’s Super Hard to be an ML Researcher or Developer?",
+  "subtitle": "A Realization that Literally Changed my Life",
+  "author": "1985b61817c3",
+  "publication_id": "98111c9905da",
+  "published_at": "2020-10-28 21:01:06",
+  "last_modified_at": "2023-06-20 06:37:11",
+  "tags": [
+    "data-science",
+    "machine-learning",
+    "artificial-intelligence",
+    "deep-learning",
+    "careers"
+  ],
+  "topics": [
+    "machine-learning",
+    "data-science"
+  ],
+  "claps": 603,
+  "voters": 141,
+  "word_count": 1146,
+  "responses_count": 6,
+  "reading_time": 4.874528301886793,
+  "url": "https://pub.towardsai.net/why-its-super-hard-to-be-an-ml-researcher-or-developer-67fa62fc1971",
+  "unique_slug": "why-its-super-hard-to-be-an-ml-researcher-or-developer-67fa62fc1971",
+  "image_url": "https://miro.medium.com/1*Ot1HMgLOe8GhwX1Knlx96g.png",
+  "lang": "en",
+  "is_series": false,
+  "is_locked": true,
+  "is_shortform": false,
+  "top_highlight": "Give me six hours to chop down a tree and I will spend the first four sharpening the axe - Abraham Lincoln"
 }

@@ -1,0 +1,15 @@
+{
+   "id" : "edab6cac5c80",
+   "recommended_articles" : [
+      "9b04f399d88c",
+      "30e846af0416",
+      "b6ef9f1a6e26",
+      "b6fae1f045f2",
+      "f7977ae4da4f",
+      "6e267091db44",
+      "a16e3cae1596",
+      "f700e2363ffe",
+      "ac214a993f95",
+      "9104b6b2928d"
+   ]
+}

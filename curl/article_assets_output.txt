@@ -1,0 +1,55 @@
+{
+   "id" : "b7d838c84f72",
+   "assets" : {
+      "anchors" : [
+         {
+            "href" : "https://github.com/weeping-angel/Mathematics-of-Music",
+            "text" : "repo"
+         }
+      ],
+      "github_gists" : [
+         "https://gist.github.com/weeping-angel/9f4b84244b9752ea3bca6a7bb1997a65.js",
+         "https://gist.github.com/weeping-angel/4b728f079c6ff1c77090258a1f775b41.js",
+         "https://gist.github.com/weeping-angel/d23ba6ed48d2999c703f270ee3377965.js"
+      ],
+      "images" : [
+         "https://miro.medium.com/1*aNnZHUx6H1A5QbEJtK6lmA.png",
+         "https://miro.medium.com/1*MA31WtMa07JEDOgjcI8mvw.png",
+         "https://miro.medium.com/1*CarestahIKFmMqTzh1k7HA.png",
+         "https://miro.medium.com/1*I8jjjv3K4gY1mwdA4SNkdA.png"
+      ],
+      "other_embeds" : {
+         "medium.com" : [
+            {
+               "href" : "https://medium.com/datadriveninvestor/machine-learning-is-becoming-a-joke-automl-downsides-c7634ce0572c",
+               "title" : "Why Machine Learning is Becoming a Joke?"
+            }
+         ],
+         "mediumapi.com" : [
+            {
+               "href" : "https://mediumapi.com/documentation.html",
+               "title" : "Medium API Documentation"
+            }
+         ],
+         "pub.towardsai.net" : [
+            {
+               "href" : "https://pub.towardsai.net/why-its-super-hard-to-be-an-ml-researcher-or-developer-67fa62fc1971",
+               "title" : "Why it’s Super Hard to be an ML Researcher or Developer?"
+            }
+         ],
+         "towardsdatascience.com" : [
+            {
+               "href" : "https://towardsdatascience.com/how-i-won-a-national-level-ml-competition-with-my-unique-informal-approach-e86fd95532fd",
+               "title" : "How I Won a National Level ML Competition with my Unique “Informal Approach”"
+            }
+         ]
+      },
+      "youtube" : [
+         {
+            "description" : "Mathematics of Music - \"Twinkle Twinkle Little Star\" Synthesized using Python (Numpy and Scipy) Full article at my profile: https://medium.com/@nishu_jain",
+            "href" : "https://www.youtube.com/watch?v=IH2nqc8B0Bg",
+            "title" : "Mathematics of Music - 1"
+         }
+      ]
+   }
+}
