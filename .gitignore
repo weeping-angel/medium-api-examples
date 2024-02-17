@@ -6,4 +6,5 @@ __pycache__
 
 embed_gen.py
 generate_output_files.py
-gist_list_gen.py
+generate_readme.py
+generate_kod-so_images.py

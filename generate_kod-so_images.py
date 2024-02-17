@@ -26,14 +26,15 @@ def generate_image(code:str, lang:str, filepath:str, bg:str = 'none'):
         print(filepath)
         open(filepath, 'wb').write(resp.content)
     else:
-        print('[ERROR]: ', resp.status_code, '\t', str(resp.content))
+        print(f'[ERROR - {filepath}]: ', resp.status_code, '\t', str(resp.content))
+        print(len(code))
 
 def main():
     for directory, ext, lang in l:
         os.makedirs(f'images/{directory}', exist_ok=True)
         for file in os.listdir(directory):
             filename, extension = file.split('.')
-            if extension==ext:
+            if extension==ext and 'get_article_info' in filename:
 
                 params = { 
                     "code": preprocess(f"{directory}/{file}"),
