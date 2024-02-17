@@ -22,5 +22,11 @@ user = medium.user(username="zulie")
 #%%
 # Fetch User's Publication-related info and print their names
 user.fetch_publications()
-for user_pub in user.publications:
+
+print(f'{user.fullname} is admin in following publications: \n')
+for user_pub in user.publications['admin_in']:
+    print(user_pub.name)
+
+print(f'\n{user.fullname} is contributing writer in following publications: \n')
+for user_pub in user.publications['writer_in']:
     print(user_pub.name)

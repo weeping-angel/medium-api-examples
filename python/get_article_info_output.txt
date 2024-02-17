@@ -1,19 +1,22 @@
-Title:  Being Clever In This Dumb World
-Subtitle:  Learn, Adapt and Improvise …
+Title:  Why it’s Super Hard to be an ML Researcher or Developer?
+Subtitle:  A Realization that Literally Changed my Life
 Author ID:  1985b61817c3
-Publication ID:  90f77fb2349a
-Claps:  14
-Voters/Fans:  5
-Word Count:  1075
-Responses Count:  0
-Reading Time:  4.7566037735849
-Tags:  ['lifestyle', 'philosophy', 'psychology', 'self-improvement', 'life-lessons']
-Topics:  ['self']
+Publication ID:  98111c9905da
+Claps:  603
+Voters/Fans:  141
+Word Count:  1146
+Responses Count:  6
+Reading Time:  4.874528301886793
+Tags:  ['data-science', 'machine-learning', 'artificial-intelligence', 'deep-learning', 'careers']
+Topics:  ['machine-learning', 'data-science']
+Top Highlight:  Give me six hours to chop down a tree and I will spend the first four sharpening the axe - Abraham Lincoln
 Language:  en
-Published At:  2022-05-22 18:48:34
-Last Modified At:  2022-05-23 02:10:05
-Responses:  0
+Published At:  2020-10-28 21:01:06
+Last Modified At:  2023-06-20 06:37:11
+Responses:  6
 Is Series:  False
 Is Locked:  True
-Cover Image:  https://miro.medium.com/0*70OTTB-mkheN7CQ5
-URL:  https://medium.com/curious/being-clever-in-this-dumb-world-799b2aa6ada3
+Is Shortform:  False
+Cover Image:  https://miro.medium.com/1*Ot1HMgLOe8GhwX1Knlx96g.png
+Unique Slug:  why-its-super-hard-to-be-an-ml-researcher-or-developer-67fa62fc1971
+URL:  https://pub.towardsai.net/why-its-super-hard-to-be-an-ml-researcher-or-developer-67fa62fc1971

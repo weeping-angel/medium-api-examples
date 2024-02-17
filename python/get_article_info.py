@@ -17,7 +17,7 @@ medium = Medium(api_key)
 
 #%%
 # Get the "Article" object
-article = medium.article(article_id="799b2aa6ada3", save_info=True)
+article = medium.article(article_id="67fa62fc1971")
 
 #%%
 # Print article properties
@@ -32,11 +32,14 @@ print('Responses Count: ', article.responses_count)
 print('Reading Time: ', article.reading_time)
 print('Tags: ', article.tags)
 print('Topics: ', article.topics)
+print('Top Highlight: ', article.top_highlight)
 print('Language: ', article.lang)
 print('Published At: ', article.published_at)
 print('Last Modified At: ', article.last_modified_at)
 print('Responses: ', len(article.response_ids))
 print('Is Series: ', article.is_series)
 print('Is Locked: ', article.is_locked)
+print('Is Shortform: ', article.is_shortform)
 print('Cover Image: ', article.image_url)
+print('Unique Slug: ', article.unique_slug)
 print('URL: ', article.url)

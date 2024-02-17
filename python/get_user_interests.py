@@ -1,4 +1,4 @@
-#-- title: Get User's Interest
+#-- title: Get User's Interests
 #-- description: Code to get a list of tags followed by a user.
 #-- tags: python, medium_api, medium_api_py
 
