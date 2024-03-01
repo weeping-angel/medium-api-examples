@@ -1,18 +1,32 @@
 {
-   "topfeeds" : [
-      "6e2c90a45030",
-      "4eb76a72e072",
-      "2cad59bfe9b8",
-      "8cb195c9af97",
-      "bd8918cf2ab4",
-      "211b10c37ae8",
-      "4fb32edd7f08",
-      "bf8c8c4ada67",
-      "8e6a9388252e",
-      "44ea80189ed2"
-   ],
-   "tag" : "ethereum",
-   "mode" : "NEW",
-   "count" : "10",
-   "after" : "0"
+  "topfeeds": [
+    "12eae52bae13",
+    "02603e7e0ede",
+    "c90e1adb2c0c",
+    "1ab6d630c687",
+    "f300ad7f66a4",
+    "d134e9e3a122",
+    "896ab36a75db",
+    "df17f24004d7",
+    "7dd37c519218",
+    "25bd18e3dee3",
+    "413954d8052a",
+    "e5c846d3ac81",
+    "5eaa6be0bcff",
+    "b64ce491da17",
+    "ee62660b8060",
+    "2d74cfb7c48d",
+    "77c4d0f11bda",
+    "4e0a7b5d8ce2",
+    "0d6bdc88fb90",
+    "cfae8cb7d66f",
+    "dc19ac4b440f",
+    "bc8c764cec0e",
+    "b06cb943a286",
+    "c10229d8f90f",
+    "ae8635c3d229"
+  ],
+  "tag": "artificial-intelligence",
+  "mode": "NEW",
+  "count": 25
 }

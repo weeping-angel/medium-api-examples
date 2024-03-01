@@ -3,4 +3,4 @@
 #-- tags: shell, medium_api, medium_api_curl
 
 curl --header "x-rapidapi-key: $RAPIDAPI_KEY" \
-    "https://medium2.p.rapidapi.com/topfeeds/ethereum/new?count=10&after=0"
+    "https://medium2.p.rapidapi.com/topfeeds/artificial-intelligence/new"

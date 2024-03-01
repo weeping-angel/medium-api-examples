@@ -1,0 +1,32 @@
+{
+  "recommended_feed": [
+    "0ecc23f330ad",
+    "1b007aa45cbd",
+    "87a8f8c10d92",
+    "39cd5a75a463",
+    "01b2d5f936ae",
+    "cc30c6aa6e16",
+    "c1c5d7bc0b71",
+    "546eca8632f6",
+    "4ca1c6ce3eb9",
+    "593a332dd08d",
+    "3fdce92615f1",
+    "b0c5c105fa55",
+    "dc1e11c1c6c5",
+    "e6b3d7933f22",
+    "b0aa472eebd2",
+    "8948a1e85491",
+    "cc5951d65f8b",
+    "041e4fd845d4",
+    "c74e119c8dda",
+    "e20e49f8813d",
+    "4be87f3c0368",
+    "53d9457fc2a0",
+    "4688f7afb930",
+    "416f2fcac408",
+    "add30628a91b"
+  ],
+  "tag": "artificial-intelligence",
+  "count": 25,
+  "page": 1
+}
