@@ -1,0 +1,15 @@
+Teaching Data Science
+Of Latent Spaces, AIs and Consciousness.
+Intro to DSPy: Goodbye Prompting, Hello Programming!
+Advanced Figma tricks, nightmare UX job, content design playbook
+Emerging UX patterns in Generative AI experiences
+Roadmap to Learn AI in 2024
+One Line of Code to Say Goodbye to Confusing Python Error Messages
+PyTorch Introduction — Using Custom Data
+Google Has Finally Dethroned ChatGPT
+Google is LOSING the AI Game,  Here’s Why
+Advance RAG- Improve RAG performance
+Generative AI for Beginners: Part 1 — Introduction to AI
+What are 1-bit LLMs?
+Improving LLM Inference Latency on CPUs with Model Quantization
+AI Has Just Solved One Of The Biggest Issues With Fusion Energy

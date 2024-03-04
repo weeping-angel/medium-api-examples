@@ -16,11 +16,10 @@ api_key = os.getenv('RAPIDAPI_KEY')
 medium = Medium(api_key)
 
 #%%
-# Create a "TopFeeds" Object with mode="new"
+# Create a "TopFeeds" Object with tag="data-science" and mode="new"
 topfeeds = medium.topfeeds(
-                tag = "blockchain", 
-                mode = "new",
-                count = 15
+                tag = "data-science", 
+                mode = "new"
             )
 
 # Fetch all the articles information
