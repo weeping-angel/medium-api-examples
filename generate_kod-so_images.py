@@ -14,6 +14,7 @@ def preprocess(filename):
     return ''.join(codelines).strip('\n')
 
 def generate_image(code:str, lang:str, filepath:str, bg:str = 'none'):
+    # print('\t generating image ...')
     theme = 'nord'
     padding_tb = 65
     padding_lr = 105
@@ -34,8 +35,8 @@ def main():
         os.makedirs(f'images/{directory}', exist_ok=True)
         for file in os.listdir(directory):
             filename, extension = file.split('.')
-            if extension==ext and 'get_article_info' in filename:
-
+            if extension==ext and ('get_recommended_feed' in filename or 'get_topfeeds' in filename):
+                # print(file)
                 params = { 
                     "code": preprocess(f"{directory}/{file}"),
                     "lang": lang,
