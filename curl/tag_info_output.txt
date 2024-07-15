@@ -1,9 +1,18 @@
 {
-   "tag" : "artificial-intelligence",
+   "articles_count" : 432117,
+   "authors_count" : 139612,
+   "children" : [
+      "chatgpt",
+      "conversational-ai",
+      "deep-learning",
+      "large-language-models",
+      "machine-learning",
+      "nlp",
+      "voice-assistant"
+   ],
+   "followers" : 5248403,
+   "latest_articles_count" : 495,
+   "latest_authors_count" : 275,
    "name" : "Artificial Intelligence",
-   "followers" : 1581567,
-   "articles_count" : 234677,
-   "authors_count" : 88177,
-   "latest_articles_count" : 480,
-   "latest_authors_count" : 320
+   "tag" : "artificial-intelligence"
 }
