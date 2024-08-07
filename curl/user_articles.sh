@@ -3,4 +3,4 @@
 #-- tags: shell, medium_api, medium_api_curl
 
 curl --header "x-rapidapi-key: $RAPIDAPI_KEY" \
-    "https://medium2.p.rapidapi.com/user/1985b61817c3/articles"
+    "https://medium2.p.rapidapi.com/user/e680fcaf274b/articles?next=1691502178198"
