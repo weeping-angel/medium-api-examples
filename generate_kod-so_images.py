@@ -35,7 +35,7 @@ def main():
         os.makedirs(f'images/{directory}', exist_ok=True)
         for file in os.listdir(directory):
             filename, extension = file.split('.')
-            if extension==ext and ('get_recommended_feed' in filename or 'get_topfeeds' in filename):
+            if extension==ext and (filename in ['archived_articles', 'recommended_lists', 'recommended_users', 'user_books', 'root_tags']):
                 # print(file)
                 params = { 
                     "code": preprocess(f"{directory}/{file}"),
