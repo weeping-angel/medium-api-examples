@@ -4,7 +4,7 @@ import os
 
 l = (
     ('python', 'py', 'python'),
-    ('curl', 'sh', 	"shellscript")
+    # ('curl', 'sh', 	"shellscript")
 )
 
 def preprocess(filename):
@@ -35,7 +35,7 @@ def main():
         os.makedirs(f'images/{directory}', exist_ok=True)
         for file in os.listdir(directory):
             filename, extension = file.split('.')
-            if extension==ext and (filename in ['archived_articles', 'recommended_lists', 'recommended_users', 'user_books', 'root_tags']):
+            if extension==ext:
                 # print(file)
                 params = { 
                     "code": preprocess(f"{directory}/{file}"),
