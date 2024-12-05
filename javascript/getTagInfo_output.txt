@@ -1,0 +1,20 @@
+Tag Info: {
+  tag: 'technology',
+  name: 'Technology',
+  followers: 13031815,
+  articles_count: 2481198,
+  authors_count: 846281,
+  latest_articles_count: 499,
+  latest_authors_count: 332,
+  children: [
+    'artificial-intelligence',
+    'blockchain',
+    'data-science',
+    'gadgets',
+    'makers',
+    'security',
+    'tech-companies',
+    'design',
+    'product-management'
+  ]
+}

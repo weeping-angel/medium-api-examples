@@ -1,0 +1,17 @@
+{
+  "name": "medium-api-examples",
+  "version": "1.0.0",
+  "description": "Medium API Examples",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nishu Jain",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "medium-api-js": "^1.1.1"
+  },
+  "devDependencies": {}
+}

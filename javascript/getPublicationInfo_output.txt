@@ -1,0 +1,30 @@
+Publication Info: {
+  id: '98111c9905da',
+  name: 'Towards AI',
+  slug: 'towards-artificial-intelligence',
+  tagline: 'The leading AI community and content platform focused on making AI accessible to all',
+  followers: 63584,
+  description: 'The leading AI community and content platform focused on making AI accessible to all',
+  tags: [
+    'ARTIFICIAL INTELLIGENCE',
+    'MACHINE LEARNING',
+    'DATA SCIENCE',
+    'DEEP LEARNING',
+    'GENERATIVE AI'
+  ],
+  domain: 'pub.towardsai.net',
+  twitter_username: 'towards_AI',
+  instagram_username: 'towards_ai',
+  facebook_pagename: 'towardsAl',
+  logo: 'https://miro.medium.com/1*NIT82G_xlaooOWm_pTtb1A.png',
+  creator: 'fb93f4aae2b0',
+  editors: [
+    'aea8a19ea239', 'dbf92a012bd3',
+    'f34bfe2bbaec', '6b81527bfd6b',
+    '7ac3d1b892d3', '992e6d4605d9',
+    'f946f4b3da43', 'fb93f4aae2b0',
+    '8a819983d566', '56f43ec01c1e',
+    'cf3368673867', 'c13a1a388634',
+    '321f4242455e', '8ce15e87a933'
+  ]
+}

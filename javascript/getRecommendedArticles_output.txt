@@ -1,0 +1,15 @@
+Recommended Articles: {
+  id: '67fa62fc1971',
+  recommended_articles: [
+    '476f1e3191b3',
+    'eb13bbdc8f88',
+    '8fcb90583ea0',
+    'f657bc080088',
+    '84bf0a6755cf',
+    'a819ae2d9779',
+    '57cd4c834e90',
+    '7f1363b92696',
+    '5a8940183c91',
+    'edd9949df58b'
+  ]
+}

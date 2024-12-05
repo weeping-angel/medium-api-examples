@@ -1,0 +1,24 @@
+Article Assets: {
+  id: '67fa62fc1971',
+  assets: {
+    other_embeds: {
+      'towardsdatascience.com': [Array],
+      'mediumapi.com': [Array],
+      'medium.com': [Array],
+      'pub.towardsai.net': [Array]
+    },
+    anchors: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    images: [
+      'https://miro.medium.com/1*Ot1HMgLOe8GhwX1Knlx96g.png',
+      'https://miro.medium.com/1*d_FD7HIUkOfGFppGsKScHQ.jpeg',
+      'https://miro.medium.com/1*ptTQf1mSQFngCpFqKUZVdA.png'
+    ],
+    'anchor.fm': [ [Object] ]
+  }
+}

@@ -1,0 +1,22 @@
+User Publications: {
+  id: '14d5c41e0264',
+  publications: {
+    admin_in: [ 'bff2346ccdf1', 'aec755e28853', 'ac4c2146e2f', 'ab314b84960a' ],
+    writer_in: [
+      'bff2346ccdf1', '7f60cf5620c9', 'f55cb0fb8ec5',
+      '7b6769f2748b', '6cb21729512d', '78d064101951',
+      '7adf33e44ae3', '3f6ecf56618',  '193b68bd4fba',
+      'd3eff52d6f1c', '998e693d29cd', '40187e704f1c',
+      '48e972f5c24e', 'ac5fff737a72', '65d07f93c269',
+      '83a207239c74', 'cdaa1cd90774', '544c7006046e',
+      'f5af2b715248', 'b7b055e558b7', 'b5717b16a765',
+      'aeb1f746f23d', '255dbed17b9e', 'ca9f783b4a25',
+      'ac4c2146e2f',  '76436a11a2b0', '5b86d3f99840',
+      '32881626c9c9', '9758482ba857', 'c4037b4d8519',
+      '87a312b0cb05', '6ffa6ceebb99', '9f7fcf99f123',
+      '444d13b52878', 'ef8e90590e66', '138adf9c44c',
+      'c8f13a2b09db', '6e9c0c9fd682', '13cffa561fc2',
+      '3c1847ef187f', '5a1f72b40e4c'
+    ]
+  }
+}

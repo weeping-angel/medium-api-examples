@@ -1,0 +1,30 @@
+Article Info: {
+  id: '67fa62fc1971',
+  title: 'Why it’s Super Hard to be an ML Researcher or Developer?',
+  subtitle: 'A Realization that Literally Changed my Life',
+  author: '1985b61817c3',
+  publication_id: '98111c9905da',
+  published_at: '2020-10-28 21:01:06',
+  last_modified_at: '2023-06-20 06:37:11',
+  tags: [
+    'data-science',
+    'machine-learning',
+    'artificial-intelligence',
+    'deep-learning',
+    'careers'
+  ],
+  topics: [ 'machine-learning', 'data-science' ],
+  claps: 612,
+  voters: 141,
+  word_count: 1146,
+  responses_count: 6,
+  reading_time: 4.874528301886793,
+  url: 'https://pub.towardsai.net/why-its-super-hard-to-be-an-ml-researcher-or-developer-67fa62fc1971',
+  unique_slug: 'why-its-super-hard-to-be-an-ml-researcher-or-developer-67fa62fc1971',
+  image_url: 'https://miro.medium.com/1*Ot1HMgLOe8GhwX1Knlx96g.png',
+  lang: 'en',
+  is_series: false,
+  is_locked: true,
+  is_shortform: false,
+  top_highlight: 'Right now, I am pretty sure that there are more than a hundred variants of SGD (Stochastic Gradient Descent) alone, which is an integral part of deep learning.'
+}

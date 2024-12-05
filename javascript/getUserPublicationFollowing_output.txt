@@ -1,0 +1,5 @@
+User Publication Following: {
+  id: '1985b61817c3',
+  publication_following: [ '15f753907972', 'aa36b7f642de', 'b7e45b22fec3' ],
+  count: 3
+}

@@ -1,0 +1,19 @@
+Archived Articles: {
+  tag: 'technology',
+  archived_articles: [
+    'f48b33f86f14', 'ed897dc993a0',
+    '4b08257d15b',  'bba6c477cbca',
+    'dad6045bbeb7', '985a0414bcc1',
+    'a0cddda1e76b', 'fd8d7a90976b',
+    '66d3ac542f3f', 'fe9964f1e510',
+    'e9e38853afbc', '110f0e29bb22',
+    'f087ce323b36', 'c1e481df66a7',
+    'eb06176c71a5', '68a72264e11a',
+    'f22d75192bf6', '1f7949b4a5a7',
+    'd59d88475095', '31cf3367ce99'
+  ],
+  count: 20,
+  next: 'MzFjZjMzNjdjZTk5OjoxNjg4MTU4NzAzNTE0',
+  year: '2023',
+  month: 'jun'
+}

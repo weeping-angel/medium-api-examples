@@ -1,0 +1,31 @@
+Search Results for Articles: {
+  articles: [
+    '8d0c45eb66b2', 'f341cc67b065', '1d3e2cbdb5ab', '0a71822b251a',
+    '31552f6326f8', '2690b57b69f0', '147653badcff', '1ea8a0a11b30',
+    'b468bc0ff658', '64b1f4b3bbdd', '325f604fe394', '5a80d19bd47a',
+    '9c70c64aba7b', 'ac15cada49ef', '3052540e231d', 'ee13a06f9c78',
+    'e2152b0299f3', 'e714a36274e1', 'f684ff4ff22a', '8233bb03a00b',
+    '092e9d830761', '052318f565a2', 'faa703603837', 'f98b22965c57',
+    'f8c3d4c28d2c', 'f6401726f1fb', 'f42ed27c57aa', 'f397035aa292',
+    'f300377085a9', 'f26c88eb46c3', 'f1c5c593c803', 'efff6d55993a',
+    'efec28d3f011', 'eed45eba50c0', 'eed39bf2d73f', 'ed0df0a03364',
+    'ecbf7f59cb69', 'eaa54304f99a', 'e927895dc7d9', 'e8f79d583544',
+    'e8d627660ede', 'e80bfafcea3b', 'e6a2d1a0a63b', 'e5eb82471389',
+    'e4038409ed45', 'e3b6777fe261', 'dfaea0bfbb08', 'dcf1f4bdef09',
+    'dc680555829d', 'd9e69846a525', 'd73a386fe39a', 'd6e17e89e4de',
+    'd325b83b5658', 'd0d73eb93784', 'd0c6912d8c87', 'ce5696718752',
+    'cdd9aeeadee2', 'ccc250d88b7d', 'cc170874e1a1', 'c9359cf29e07',
+    'c785eebe01d1', 'c537e670c716', 'c2c231349101', 'c29fb24a2716',
+    'c181615bf99f', 'c17f3a19684f', 'c0c1a701482f', 'bf798924cc99',
+    'bf6092f7ffd4', 'bf38e659bc4a', 'bf096db4c94c', 'bea11b25afc7',
+    'be4229e6fd77', 'bdf9e145107d', 'bdef7de9f930', 'bd3e77530c9f',
+    'bbf03f5a549a', 'bbe7d2421896', 'b9b75728aede', 'b8be995c6cbd',
+    'b7f7d4bd37d3', 'b72b2a12547a', 'b4ff042a679d', 'b4ea632ce837',
+    'b4ab3e29b19c', 'b3b001c31bf0', 'b3013b2e143f', 'b10494c64801',
+    'af1cadae0b5c', 'ae0fd1556535', 'ab7268f2bdc7', 'a858f3e384ed',
+    'a742a04e4b0d', 'a66867b01828', 'a4d0c2c0d7b2', 'a24f5f4df498',
+    'a1f59d93cd46', 'a1cd4e51d91a', 'a0e19427afbb', '9e49568cd67c',
+    ... 857 more items
+  ],
+  search_query: 'technology'
+}

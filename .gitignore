@@ -2,8 +2,9 @@
 venv
 __pycache__
 .DS_Store
-
-
+node_modules
+package-lock.json
+.env
 embed_gen.py
 generate_output_files.py
 generate_readme.py

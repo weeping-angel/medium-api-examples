@@ -1,0 +1,82 @@
+Article Content: {
+  id: '67fa62fc1971',
+  content: 'Careers, Data Science, Machine Learning\n' +
+    '\n' +
+    "Why it's Super Hard to be an ML Researcher or Developer?\n" +
+    '\n' +
+    'A Realization that Literally Changed my Life\n' +
+    '\n' +
+    'According to the stats, currently, 33,000 ML Research papers are being published per year. That means, around 90+ papers per day! And almost every single paper introduces something new, without any exception.\n' +
+    '\n' +
+    'As an "AI enthusiast", I try to get a brief (or a rough idea) of as many papers as possible to keep myself updated in the industry. But to be honest, it feels a bit overwhelming.\n' +
+    '\n' +
+    'To make things much worse, I recently heard a "story" that literally changed my life as an ML/DL developer.\n' +
+    '\n' +
+    "Warning: What I'm about to share with you may disturb your career as an ML researcher/developer or make you deeply anxious. So, hear my reasoning until the end.\n" +
+    '\n' +
+    "You may love it or hate it, but you can't ignore it\n" +
+    '\n' +
+    'After realizing what I mentioned above, I was already feeling like, "Have I wasted a good amount of my life with ML research? Could I do something more useful with my life?". And then ...\n' +
+    '\n' +
+    'The Story that changed my life\n' +
+    '\n' +
+    'A few months ago, I came across this true story of a Harvard professor of political science, Gary King, who started working on the document clustering problem to give a Festschrift (a collection of writings published in honor of a scholar) to one of his colleagues, as the retirement gift.\n' +
+    '\n' +
+    'To do so, he asked his grad students to utilize every clustering algorithm ever invented. For those who know about this, clustering is a very old problem in the field of machine learning and statistics. Hence, there were plenty of methods available to apply in the literature, and they found around 250 algorithms.\n' +
+    '\n' +
+    'To compare the efficiency of all the algorithms, they coded an R package and what did they found? Was there any absolute "best" algorithm?\n' +
+    '\n' +
+    'Nope. Obviously not.\n' +
+    '\n' +
+    'As expected, each method worked differently. They could not decide which algorithm was best, and at last, they let their users pick the results that they themselves found useful.\n' +
+    '\n' +
+    'So what did I learn?\n' +
+    '\n' +
+    'Listen Carefully\n' +
+    '\n' +
+    'Here, I described the situation using clustering, but the same argument can be given to any problem - may that be reinforcement learning, deep learning, supervised learning, unsupervised learning, or anything else.\n' +
+    '\n' +
+    'Right now, I am pretty sure that there are more than a hundred variants of SGD (Stochastic Gradient Descent) alone, which is an integral part of deep learning.\n' +
+    '\n' +
+    'And that is scary to me (even with some experience in this field).\n' +
+    '\n' +
+    'It made me ask this question: Should I spend my time inventing the 251st clustering algorithm?\n' +
+    '\n' +
+    'We all know that glory comes to the trailblazers. Every next version of something gets lesser and lesser credit (like a submodular set function); the law of diminishing returns applies.\n' +
+    '\n' +
+    'After Ian Goodfellow invented GANs (Generative Adversarial Networks), there were more than a hundred types of GAN variants out there. Everyone was attracted to them and contributed, but unfortunately, only a few got some recognition. Ian Goodfellow will always be at the center of the GAN universe.\n' +
+    '\n' +
+    'So let me ask you this again, Is it really worth it to invent the 251st clustering algorithm or a 101st SGD variant?\n' +
+    '\n' +
+    'The ML Tragedy\n' +
+    '\n' +
+    'I told you, there is no happily ever after.\n' +
+    '\n' +
+    'There is a set of theorems in search and optimization called, "No Free Lunch Theorems" (seriously, no kidding) which accurately depicts our situation. Let me quote this from Wikipedia:\n' +
+    '\n' +
+    `In computational complexity and optimization the no free lunch theorem is a result that states that for certain types of mathematical problems, the computational cost of finding a solution, averaged over all problems in the class, is the same for any solution method. No solution therefore offers a "short cut". This is under the assumption that the search space is a probability density function. It does not apply to the case where the search space has underlying structure that can be exploited more efficiently than random search or even has closed-form solutions that can be determined without search at all. For such probabilistic assumptions, the outputs of all procedures solving a particular type of problem are statistically identical. A colourful way of describing such a circumstance, introduced by David Wolpert and William G. Macready in connection with the problems of search and optimization, is to say that there is no free lunch. Wolpert had previously derived no free lunch theorems for machine learning (statistical inference). Before Wolpert's article was published, Cullen Schaffer independently proved a restricted version of one of Wolpert's theorems and used it to critique the current state of machine learning research on the problem of induction [1].\n` +
+    '\n' +
+    `In short, the theorem says, there isn't gonna be any "best" approach (or algorithm) that can fit all problem space.\n` +
+    '\n' +
+    "After averaging over a large input distribution, every algorithm performs the same, more or less. Hence, no best clustering algorithm, no best RL (reinforcement learning) method, no best regressor, etc... It's all hokum.\n" +
+    '\n' +
+    "What's Next?\n" +
+    '\n' +
+    'Since now I have put you in my shoes, you must be wondering why you read all this?\n' +
+    '\n' +
+    'Because there is something that you can do! And that is, to change your approach.\n' +
+    '\n' +
+    'As an ML developer, the best advice that I can give to you is: Instead of concentrating on ML algorithms, focus on the problem - Problem Formulation must be your main priority.\n' +
+    '\n' +
+    'Give me six hours to chop down a tree and I will spend the first four sharpening the axe - Abraham Lincoln\n' +
+    '\n' +
+    "Don't approach the problem from the opposite direction. I learned that the hard way, but once I did, it changed everything.\n" +
+    '\n' +
+    "Keep that in mind and I'm sure you'll not get lost (into this algorithm jungle). I hope you'll spend your time more wisely from this point forward.\n" +
+    '\n' +
+    "If you enjoy reading these stories, then I'm sure you would love to be a Medium paying member. It's only $5 per month, and you'll get unlimited access to thousands and thousands of stories and writers. You can support me by signing up using this link, and I'll earn a small commission that will help me grow and publish more stories like this.\n" +
+    '\n' +
+    'Thanks for reading and have a nice day!\n' +
+    '\n' +
+    'Other awesome articles that you might enjoy -'
+}

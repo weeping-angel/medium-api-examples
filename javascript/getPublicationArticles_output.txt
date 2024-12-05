@@ -1,0 +1,20 @@
+Publication Articles: {
+  publication_articles: [
+    '15534303cde2', 'ad24b55c16dd',
+    '54b12b87e3b9', '3582be9dc5ed',
+    '179d73590d0a', '7590de6744b4',
+    'fc4790effd14', 'caf84e78fe40',
+    '65e6816821ae', '26d064659f8e',
+    '472107bc2c9c', '6a3fb08368e2',
+    '8293f1070f2f', '3f3b84f87e28',
+    '6bcb17f9bff6', '892d4bf65922',
+    '200da7834663', 'ef71f9c8aad8',
+    'b711f0396f57', '9612b739bdee',
+    'dbecdeb27aaa', '3cbeea3f8e36',
+    '46c8785c3da2', 'ac24d0d9ffd',
+    '44b21079ff17'
+  ],
+  publication_id: '98111c9905da',
+  from: '2023-01-31 12:53:15',
+  to: '2023-01-26 16:02:30'
+}

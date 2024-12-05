@@ -1,0 +1,20 @@
+Recommended Feed: {
+  recommended_feed: [
+    'b260c3a76611', '0c68b889d26e',
+    '08ceba30f1a1', '0bbbdde30b8e',
+    'a11f337f2dbd', 'd831004a45f8',
+    '226681d1af18', '6acb17c1f0d2',
+    '63665f73b0d3', '66c9f0c9b4a3',
+    '7b22e6a71f29', '52e9e04e30cf',
+    'fbf0f99b0420', '3dba75b4d86b',
+    'b9af7a304876', '2287aecb6314',
+    '3cf03e35f546', '4b7d1fc3cca4',
+    '0708f08ab17e', 'e21eea990e75',
+    'b3b9ba035d38', '4f6bb69bba71',
+    'a61e9f4f2ba7', 'be6eee1a2a07',
+    '78dddebdd6ec'
+  ],
+  tag: 'technology',
+  count: 25,
+  page: 2
+}

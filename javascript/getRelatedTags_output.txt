@@ -1,0 +1,14 @@
+Related Tags: {
+  given_tag: 'technology',
+  related_tags: [
+    'cryptocurrency',
+    'money',
+    'nft',
+    'web3',
+    'bitcoin',
+    'defi',
+    'artificial-intelligence',
+    'cryptocurrency-investment',
+    'blockchain'
+  ]
+}

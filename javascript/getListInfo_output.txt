@@ -1,0 +1,13 @@
+List Info: {
+  id: '3d8f744f5370',
+  name: 'Startup',
+  claps: 4,
+  voters: 2,
+  author: '771b2784ce6a',
+  count: 231,
+  description: 'None',
+  created_at: '2023-04-04 18:06:15',
+  last_item_inserted_at: '2024-11-26 16:26:53',
+  responses_count: 0,
+  thumbnail: 'https://miro.medium.com/0*251f09203614c6798e5ce49d45014173fbd98fbc.jpeg'
+}

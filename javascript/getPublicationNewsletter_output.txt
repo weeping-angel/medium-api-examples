@@ -1,0 +1,9 @@
+Publication Newsletter: {
+  id: 'd710a73cd042',
+  name: 'This AI newsletter is all you need',
+  description: 'We have moved our newsletter to: ws.towardsai.net/subscribe',
+  slug: 'this-ai-newsletter-is-all-you-need',
+  creator_id: 'aea8a19ea239',
+  image: 'https://miro.medium.com/1*j2OVd7j2o2FHeE7T8TzpXw.png',
+  subscribers: 5791
+}
