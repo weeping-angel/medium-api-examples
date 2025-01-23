@@ -1,0 +1,31 @@
+name: Continous Deployment on "main" branch
+
+# Check if files have been pushed to ./examples
+on:
+  push:
+    paths:
+      - curl/**
+
+jobs:
+  build:
+    if: github.ref == 'refs/heads/main'
+
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        python-version: ['3.8']
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v2
+      with:
+        python-version: ${{ matrix.python-version }}
+
+    - name: Install repo-gist-sync
+      run: pip install repo-gist-sync
+
+    - name: Use repo-gist-sync CLI on "curl" directory
+      run: gistdirsync --auth-token ${{ secrets.GIST_TOKEN }} --directory ./curl/
