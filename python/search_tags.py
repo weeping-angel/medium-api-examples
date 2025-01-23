@@ -20,6 +20,6 @@ medium = Medium(api_key)
 blockchain_tags = medium.search_tags(query="blockchain")
 
 #%%
-# Loop through all the users and print their name, username and bio
+# Loop through all the tags
 for tag in blockchain_tags:
     print(tag)

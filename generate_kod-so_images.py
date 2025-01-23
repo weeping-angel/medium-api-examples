@@ -3,13 +3,14 @@ from urllib.parse import quote_plus
 import os
 
 l = (
-    ('python', 'py', 'python'),
-    # ('curl', 'sh', 	"shellscript")
+    # ('python', 'py', 'python'),
+    # ('curl', 'sh', 	"shellscript"),
+    ('javascript', 'js', 'javascript'),
 )
 
 def preprocess(filename):
     codelines = open(filename, 'r').readlines()
-    codelines = [line for line in codelines if line[0]!='#']
+    codelines = [line for line in codelines if line[0]!='#' and line[:2]!='//']
 
     return ''.join(codelines).strip('\n')
 

@@ -11,5 +11,6 @@
       "d29a51e112fb",
       "c561122e8d02",
       "9d376e28bb1e"
-   ]
+   ],
+   "total_pinned_articles": 1
 }

@@ -2,6 +2,7 @@ User Top Articles: {
   id: '1985b61817c3',
   top_articles: [
     '562c5821b5f0',
+    'dbf09576c3ff',
     '30595c092b08',
     '5e676cd18e3f',
     'c8e185d0992e',
@@ -9,7 +10,7 @@ User Top Articles: {
     '9f370de68138',
     'c30d22a655af',
     'c3af09f77b67',
-    'fe031f113c27',
-    '726bb81d916c'
-  ]
+    'fe031f113c27'
+  ],
+  total_pinned_articles: 1
 }

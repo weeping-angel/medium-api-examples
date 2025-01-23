@@ -36,5 +36,8 @@ jobs:
     - name: Use repo-gist-sync CLI on "curl" directory
       run: gistdirsync --auth-token ${{ secrets.GIST_TOKEN }} --directory ./curl/
 
+    - name: Use repo-gist-sync CLI on "javascript" directory
+      run: gistdirsync --auth-token ${{ secrets.GIST_TOKEN }} --directory ./javascript/
+
     - name: Use repo-gist-sync CLI on "sample_scripts" directory
       run: gistdirsync --auth-token ${{ secrets.GIST_TOKEN }} --directory ./sample_scripts/
