@@ -3,9 +3,9 @@ from urllib.parse import quote_plus
 import os
 
 l = (
-    # ('python', 'py', 'python'),
+    ('python', 'py', 'python'),
     # ('curl', 'sh', 	"shellscript"),
-    ('javascript', 'js', 'javascript'),
+    # ('javascript', 'js', 'javascript'),
 )
 
 def preprocess(filename):

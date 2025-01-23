@@ -25,3 +25,6 @@ user.fetch_top_articles()
 
 for article in user.top_articles:
     print(article.title)
+
+# Number of Pinned Articles
+print("\nNumber of Pinned Articles: ", user.total_pinned_articles)
