@@ -2,17 +2,18 @@ Title:  Why it’s Super Hard to be an ML Researcher or Developer?
 Subtitle:  A Realization that Literally Changed my Life
 AuthorID:  1985b61817c3
 PublicationID:  98111c9905da
-Claps:  603
-Voters:  141
+Claps:  607
+Voters:  140
 WordCount:  1146
 ResponseCount:  6
 ReadingTime:  4.874528301886793
 Tags:  ['data-science', 'machine-learning', 'artificial-intelligence', 'deep-learning', 'careers']
 Topics:  ['machine-learning', 'data-science']
-TopHighlight:  Give me six hours to chop down a tree and I will spend the first four sharpening the axe - Abraham Lincoln
+TopHighlight:  Right now, I am pretty sure that there are more than a hundred variants of SGD (Stochastic Gradient Descent) alone, which is an integral part of deep learning.
 Language:  en
 PublishedAt:  2020-10-28 21:01:06
 LastModifiedAt:  2023-06-20 06:37:11
+Boosted At:  None
 Responses:  6
 IsSeries:  False
 IsLocked:  True

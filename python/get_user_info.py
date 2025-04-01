@@ -23,6 +23,7 @@ user = medium.user(username="nishu-jain")
 # Print all the attributes of the Medium User
 print('Fullname: ', user.fullname)
 print('Bio: ', user.bio)
+print('Tier: ', user.tier)
 print('Profile Image: ', user.image_url)
 print('Top Writer In: ', user.top_writer_in)
 
@@ -38,6 +39,7 @@ print('Tipping Link: ', user.tipping_link)
 
 print('Is enrolled in writer program: ', user.is_writer_program_enrolled)
 print('Became Medium Member At: ', user.medium_member_at)
+print('Friend Since: ', user.friend_since)
 print('Is Account Suspended? : ', user.is_suspended)
 print('Allow Notes? : ', user.allow_notes)
 
