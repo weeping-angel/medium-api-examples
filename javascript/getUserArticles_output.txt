@@ -29,6 +29,6 @@ User Articles: {
     ... 400 more items
   ],
   total_pinned_articles: 4,
-  count: 500,
+  count: 250,
   next: '1635416746016'
 }
