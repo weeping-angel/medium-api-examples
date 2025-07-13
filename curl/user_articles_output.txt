@@ -9,7 +9,7 @@
     .
     
   ],
-  "count": 500,
+  "count": 250,
   "total_pinned_articles": 2,
   "next": "1655196790606"
 }
