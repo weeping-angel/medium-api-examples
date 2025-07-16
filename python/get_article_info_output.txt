@@ -5,6 +5,8 @@ PublicationID:  98111c9905da
 Claps:  607
 Voters:  140
 WordCount:  1146
+Views:  9602
+Reads:  3756
 ResponseCount:  6
 ReadingTime:  4.874528301886793
 Tags:  ['data-science', 'machine-learning', 'artificial-intelligence', 'deep-learning', 'careers']
