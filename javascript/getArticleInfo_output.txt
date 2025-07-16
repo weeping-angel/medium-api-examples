@@ -16,6 +16,8 @@ Article Info: {
   topics: [ 'machine-learning', 'data-science' ],
   claps: 612,
   voters: 141,
+  views: 1000,
+  reads: 800,
   word_count: 1146,
   responses_count: 6,
   reading_time: 4.874528301886793,
